@@ -8,7 +8,7 @@ for i in range(500):
     Data[1].append(Data[0][-1]*0.5 + 1 + np.random.normal(scale=0.2))
 
 
-a = minimize(lambda a: np.mean(map(lambda i: (Data[1][i] - a[0]*Data[0][i] - a[1])**2, range(len(Data)))), [0, 0])#.x
+a = minimize(lambda a: np.mean(map(lambda i: (Data[1][i] - a[0]*Data[0][i] - a[1])**2, range(len(Data)))), [0, 0]).x
 print a
 
 x = np.linspace(np.array(Data[0]).min(), np.array(Data[0]).max(), 100)
