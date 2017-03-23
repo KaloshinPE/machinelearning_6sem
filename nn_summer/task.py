@@ -5,6 +5,8 @@ from scipy import special
 from sklearn.base import ClassifierMixin, BaseEstimator
 from sklearn.datasets import make_classification
 
+from sklearn.model_selection import cross_val_score
+
 # Используйте scipy.special для вычисления численно неустойчивых функций
 # https://docs.scipy.org/doc/scipy/reference/special.html#module-scipy.special
 
@@ -19,7 +21,7 @@ def lossf(w, X, y, l1, l2):
     :param l2: float, l2 коэффициент регуляризатора 
     :return: float, value of loss function
     """
-    lossf = # Вам необходимо вычислить значение функции потерь тут, решение может занимать 1 строку
+    lossf = np.logaddexp(np.zeros(len(y)), np.sum(-y*np.dot(X, w))).sum() + l1*np.abs(w).sum() + 2*np.sum(w*w)
     return lossf
 
 def gradf(w, X, y, l1, l2):
@@ -33,7 +35,7 @@ def gradf(w, X, y, l1, l2):
     :param l2: float, l2 коэффициент регуляризатора 
     :return: numpy.array размера  (M,), dtype = np.float, gradient vector d lossf / dw
     """
-    gradw = # Вам необходимо вычислить градиент функции потерь тут, решение может занимать 1 строку
+    gradw = np.dot(-(y*X.transpose()), special.expit(-y*np.dot(X, w)) * np.exp(-y*np.dot(X, w))) + l1*np.sign(w) + l2*2*w
     return gradw
 
 class LR(ClassifierMixin, BaseEstimator):
@@ -58,8 +60,10 @@ class LR(ClassifierMixin, BaseEstimator):
         :return: self
         """
         n, d = X.shape
-        self.w = np.zeros(X.shape[1])# Задайте начальное приближение вектора весов
-        self.w = # Настройте параметры функции потерь с помощью градиентного спуска
+        self.w = np.zeros(d)
+        for i in range(self.num_iter):
+            self.w += -0.001*gradf(self.w, X, y, self.l1, self.l2)
+            print self.w
         return self
 
     def predict_proba(self, X):
@@ -73,7 +77,7 @@ class LR(ClassifierMixin, BaseEstimator):
         # Вычислите вероятности принадлежности каждого 
         # объекта из X к положительному классу, используйте
         # эту функцию для реализации LR.predict
-        probs = # ...
+        probs = special.expit(-np.ones(X.shape[0])*np.dot(X, self.w))
         return probs
 
     def predict(self, X):
@@ -85,8 +89,8 @@ class LR(ClassifierMixin, BaseEstimator):
         :return:  numpy.array размера  (N,), dtype = np.int
         """
         # Вычислите предсказания для каждого объекта из X
-        predicts = # ...
-        return predicts 
+        predicts = np.sign(self.predict_proba(X)-0.5)
+        return predicts
 
 def test_work():
     print "Start test"
@@ -104,6 +108,8 @@ def test_work():
     except Exception:
         assert False, "Обучение модели завершается с ошибкой"
         return
+
+    print cross_val_score(clf, X, y, cv=5)
 
     assert isinstance(lossf(clf.w, X, y, 1e-3, 1e-3), float), "Функция потерь должна быть скалярной и иметь тип np.float"
     assert gradf(clf.w, X, y, 1e-3, 1e-3).shape == (100,), "Размерность градиента должна совпадать с числом параметров"
