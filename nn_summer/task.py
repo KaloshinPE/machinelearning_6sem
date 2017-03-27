@@ -3,6 +3,7 @@ import numpy as np
 from scipy import special
 from sklearn.base import ClassifierMixin, BaseEstimator
 from sklearn.datasets import make_classification
+from sklearn.model_selection import cross_val_score
 
 # Используйте scipy.special для вычисления численно неустойчивых функций
 # https://docs.scipy.org/doc/scipy/reference/special.html#module-scipy.special
@@ -34,7 +35,7 @@ def gradf(w, X, y, l1, l2):
     :param l2: float, l2 коэффициент регуляризатора 
     :return: numpy.array размера  (M,), dtype = np.float, gradient vector d lossf / dw
     """
-    gradw = np.dot((y*X.transpose()), special.expit(-y*np.dot(X, w))) + l1*np.sign(w) + l2*2*w
+    gradw = np.dot(-(y*X.transpose()), special.expit(-y*np.dot(X, w))) + l1*np.sign(w) + l2*2*w
     return gradw
 
 
@@ -76,7 +77,7 @@ class LR(ClassifierMixin, BaseEstimator):
         # Вычислите вероятности принадлежности каждого 
         # объекта из X к положительному классу, используйте
         # эту функцию для реализации LR.predict
-        probs = special.expit(-np.ones(X.shape[0])*np.dot(X, self.w))
+        probs = special.expit(np.ones(X.shape[0])*np.dot(X, self.w))
         return probs
 
     def predict(self, X):
@@ -109,6 +110,7 @@ def test_work():
         assert False, "Обучение модели завершается с ошибкой"
         return
 
+    print cross_val_score(clf, X, y, cv=5)
     assert isinstance(lossf(clf.w, X, y, 1e-3, 1e-3), float), "Функция потерь должна быть скалярной и иметь тип np.float"
     assert gradf(clf.w, X, y, 1e-3, 1e-3).shape == (100,), "Размерность градиента должна совпадать с числом параметров"
     assert gradf(clf.w, X, y, 1e-3, 1e-3).dtype == np.float, "Вектор градиента, должен состоять из элементов типа np.float"

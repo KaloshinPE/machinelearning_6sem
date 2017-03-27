@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8df9746c-63f9-43c9-8eb5-66c0f2a2ba61" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nn_summer/task.py" afterPath="$PROJECT_DIR$/nn_summer/task.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/main.py" afterPath="$PROJECT_DIR$/task3/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/my_solution.ipynb" afterPath="$PROJECT_DIR$/task3/my_solution.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,13 +19,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nn_summer/task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="119" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="11" />
+            <state relative-caret-position="818">
+              <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
               <folding>
                 <element signature="e#24#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task3/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#295#1661#0" expanded="false" />
+                <element signature="e#1704#1765#0" expanded="false" />
+                <element signature="e#1806#1885#0" expanded="false" />
+                <element signature="e#1926#2273#0" expanded="false" />
+                <element signature="e#2323#2524#0" expanded="false" />
+                <element signature="e#2565#2696#0" expanded="false" />
+                <element signature="e#2736#2824#0" expanded="false" />
+                <element signature="e#2874#3257#0" expanded="false" />
+                <element signature="e#2874#3069#1" expanded="false" />
+                <element signature="e#3292#3983#0" expanded="false" />
+                <element signature="e#3354#3983#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -53,9 +77,9 @@
         <option value="$PROJECT_DIR$/task2/main.py" />
         <option value="$PROJECT_DIR$/task2/task2.py" />
         <option value="$PROJECT_DIR$/task3/.ipynb_checkpoints/main.py" />
-        <option value="$PROJECT_DIR$/task3/main.py" />
         <option value="$PROJECT_DIR$/task2/task3.py" />
         <option value="$PROJECT_DIR$/nn_summer/task.py" />
+        <option value="$PROJECT_DIR$/task3/main.py" />
       </list>
     </option>
   </component>
@@ -124,38 +148,6 @@
               <option name="myItemId" value="machinelearning_6sem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machinelearning_6sem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machinelearning_6sem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machinelearning_6sem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machinelearning_6sem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -177,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../defectpredictions/resrepo/SDA" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -185,7 +177,7 @@
       <recent name="$PROJECT_DIR$/task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task">
+  <component name="RunManager" selected="Python.main">
     <configuration default="false" name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -418,9 +410,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.task" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetest test_work" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.task" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetest test_work" />
         <item index="3" class="java.lang.String" itemvalue="Python.task3" />
         <item index="4" class="java.lang.String" itemvalue="Python.task2" />
       </list>
@@ -516,7 +508,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33843017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33843017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -886,13 +878,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task2/main.py" />
-    <entry file="file://$PROJECT_DIR$/task3/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task2/task2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -909,10 +894,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nn_summer/task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="119" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="11" />
+        <state relative-caret-position="818">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding>
             <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#295#1661#0" expanded="false" />
+            <element signature="e#1704#1765#0" expanded="false" />
+            <element signature="e#1806#1885#0" expanded="false" />
+            <element signature="e#1926#2273#0" expanded="false" />
+            <element signature="e#2323#2524#0" expanded="false" />
+            <element signature="e#2565#2696#0" expanded="false" />
+            <element signature="e#2736#2824#0" expanded="false" />
+            <element signature="e#2874#3257#0" expanded="false" />
+            <element signature="e#2874#3069#1" expanded="false" />
+            <element signature="e#3292#3983#0" expanded="false" />
+            <element signature="e#3354#3983#0" expanded="false" />
           </folding>
         </state>
       </provider>
