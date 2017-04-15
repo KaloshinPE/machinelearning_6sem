@@ -50,7 +50,7 @@ Id,Category
 49,amareggiare+V
 50,autoalimentare+V
 51,escutere+V
-52,seccao+A
+52,secco+A
 53,talentare+V
 54,derapare+V
 55,distinguere+V
@@ -143,7 +143,7 @@ Id,Category
 142,lerciare+V
 143,svoltare+V
 144,rimembrare+V
-145,corallinao+A
+145,corallino+A
 146,appiedare+V
 147,scolare+V
 148,invidiare+V
@@ -154,7 +154,7 @@ Id,Category
 153,dileguare+V
 154,pupillo+N
 155,ammaestrare+V
-156,superbollio+N
+156,superbollo+N
 157,mugolare+V
 158,rimpatrare+V
 159,riallungare+V
@@ -189,7 +189,7 @@ Id,Category
 188,crepuscolare+V
 189,impermalire+V
 190,frammentare+V
-191,appartenentie+N
+191,appartenente+N
 192,spiare+V
 193,ritagliare+V
 194,scagionare+V
@@ -199,7 +199,7 @@ Id,Category
 198,strapagare+V
 199,affascinare+V
 200,debilitare+V
-201,distingure+V
+201,distinre+V
 202,sgobbare+V
 203,risanare+V
 204,insalubre+A
@@ -223,7 +223,7 @@ Id,Category
 222,impermeabilizzare+V
 223,specificare+V
 224,reinserire+V
-225,circospettao+A
+225,circospetto+A
 226,sventagliare+V
 227,assicurare+A
 228,troncare+V
@@ -274,7 +274,7 @@ Id,Category
 273,mistura+N
 274,imbevare+V
 275,foracchiare+V
-276,recidiare+V
+276,recidivare+V
 277,saltare+V
 278,leggicchiare+A
 279,denotare+V
@@ -334,19 +334,19 @@ Id,Category
 333,gargarizzare+V
 334,idrico+A
 335,stiracchiare+V
-336,interea+N
+336,intera+N
 337,scrosciare+V
 338,abboccare+V
 339,reintegrare+V
 340,tentare+A
 341,rimarcare+V
 342,srotolare+V
-343,corriare+V
+343,corrivare+V
 344,canterellare+V
 345,beccare+V
 346,saettare+V
 347,standardizzare+V
-348,catarattao+A
+348,cataratto+A
 349,riattizzare+V
 350,marciare+V
 351,rivelare+V
@@ -452,7 +452,7 @@ Id,Category
 451,verbalizzare+V
 452,storpiare+V
 453,clerical-calcistico+A
-454,siffattao+A
+454,siffatto+A
 455,rafforzare+V
 456,ripubblicare+V
 457,mettere+V
@@ -522,7 +522,7 @@ Id,Category
 521,stravolgere+V
 522,immigrare+V
 523,congelare+V
-524,disputre+V
+524,dispre+V
 525,bevicchiare+V
 526,vescovare+V
 527,autorizzare+V
@@ -611,7 +611,7 @@ Id,Category
 610,gretto+A
 611,tare+V
 612,crescere+V
-613,accellerare+V
+613,accellerre+V
 614,paramento+N
 615,fruizione+N
 616,insospettire+V
@@ -640,7 +640,7 @@ Id,Category
 639,smarcare+V
 640,ammalato+A
 641,ripetere+V
-642,appassìire+V
+642,appassire+V
 643,spilletta+N
 644,castrato+N
 645,distratta+N
@@ -666,7 +666,7 @@ Id,Category
 665,sondere+V
 666,ricoverare+V
 667,brancicare+V
-668,azzittre+V
+668,azzire+V
 669,stampigliare+A
 670,snocciolare+V
 671,svasare+V
@@ -740,7 +740,7 @@ Id,Category
 739,armamentare+V
 740,uniformare+V
 741,schiodare+V
-742,cogestre+V
+742,cogestire+V
 743,sfibrare+V
 744,medicato+A
 745,emulare+V
@@ -988,7 +988,7 @@ Id,Category
 987,terriero+A
 988,burlare+V
 989,distendere+V
-990,sanguignao+A
+990,sanguigno+A
 991,ciurlare+V
 992,lesionare+V
 993,accorciatre+A
@@ -1000,7 +1000,7 @@ Id,Category
 999,stravaccare+V
 1000,investire+V
 1001,porgere+A
-1002,espungere+V
+1002,espungaere+V
 1003,arcaizzare+V
 1004,settore+N
 1005,centesimo+A
@@ -1022,7 +1022,7 @@ Id,Category
 1021,preavvisare+V
 1022,immaturo+A
 1023,pizzicottare+V
-1024,assertire+A
+1024,assertivre+A
 1025,inchinare+V
 1026,sobbarcare+V
 1027,esterificare+V
@@ -1033,7 +1033,7 @@ Id,Category
 1032,supplementarie+N
 1033,interpellare+V
 1034,formalizzare+V
-1035,rabbrividre+V
+1035,rabbrivre+V
 1036,avvizzire+V
 1037,accorare+V
 1038,appagare+V
@@ -1114,7 +1114,7 @@ Id,Category
 1113,serrare+V
 1114,formalizzare+V
 1115,biscottare+V
-1116,gratuitao+A
+1116,gratuito+A
 1117,flottare+V
 1118,crocefiggere+V
 1119,ghettizzare+A
@@ -1150,7 +1150,7 @@ Id,Category
 1149,dinamizzare+A
 1150,comunistizzare+V
 1151,complicare+V
-1152,scolpre+V
+1152,scolpire+V
 1153,riscrivere+V
 1154,imbrigliare+V
 1155,depoliticizzare+V
@@ -1257,7 +1257,7 @@ Id,Category
 1256,imbiaccare+V
 1257,ricomparire+V
 1258,cozzare+V
-1259,stride+V
+1259,stridere+V
 1260,originare+V
 1261,contaminare+V
 1262,ammainare+V
@@ -1302,7 +1302,7 @@ Id,Category
 1301,sconnettere+V
 1302,video-gioco+N
 1303,congolese+V
-1304,rovescre+A
+1304,rovescere+A
 1305,manualizzare+A
 1306,bimbo+N
 1307,rinforzare+V
@@ -1310,7 +1310,7 @@ Id,Category
 1309,sprintare+V
 1310,arrabbiare+V
 1311,esaminare+V
-1312,ermafrodit+A
+1312,ermafrodito+A
 1313,miagolare+V
 1314,desertificare+V
 1315,menscevico+A
@@ -1345,8 +1345,8 @@ Id,Category
 1344,girellare+V
 1345,israelitico+A
 1346,sfrattare+A
-1347,nonao+A
-1348,donchisciotteo+A
+1347,nono+A
+1348,donchisciotto+A
 1349,svettare+V
 1350,alienare+V
 1351,fraseggiare+V
@@ -1356,7 +1356,7 @@ Id,Category
 1355,rachitico+A
 1356,affissare+V
 1357,elettronico+A
-1358,ribattere+V
+1358,ribatt+V
 1359,scolorire+V
 1360,cislare+A
 1361,strinare+V
@@ -1465,7 +1465,7 @@ Id,Category
 1464,citofonare+V
 1465,affiorare+V
 1466,rastrellare+V
-1467,aliare+V
+1467,alitare+V
 1468,cameratismo+N
 1469,intercedere+V
 1470,decantare+V
@@ -1538,7 +1538,7 @@ Id,Category
 1537,inceneritore+N
 1538,mortificare+A
 1539,fiaccare+V
-1540,ferviere+V
+1540,fervere+V
 1541,sbaragliare+V
 1542,flessibilizzare+V
 1543,semitone+N
@@ -1556,7 +1556,7 @@ Id,Category
 1555,impaginare+V
 1556,lasciare+V
 1557,destrutturazione+N
-1558,discesndere+N
+1558,discesindere+N
 1559,palleggiare+V
 1560,ripassare+V
 1561,guadere+V
@@ -1574,7 +1574,7 @@ Id,Category
 1573,ammarare+V
 1574,migliorare+V
 1575,inviperire+V
-1576,illusoriao+A
+1576,illusorio+A
 1577,incerare+V
 1578,assentire+V
 1579,decorare+V
@@ -1644,7 +1644,7 @@ Id,Category
 1643,sadismo+N
 1644,stangare+V
 1645,riarmare+V
-1646,fossre+V
+1646,fosre+V
 1647,digito+V
 1648,fruire+V
 1649,rugliare+V
@@ -1655,11 +1655,11 @@ Id,Category
 1654,palesare+V
 1655,certosino+A
 1656,pascere+V
-1657,coev+A
+1657,c+A
 1658,interloquire+V
 1659,affabulare+V
 1660,competere+V
-1661,intraveere+V
+1661,intravedreere+V
 1662,straviziare+V
 1663,marcare+V
 1664,bianchire+V
@@ -1685,7 +1685,7 @@ Id,Category
 1684,afro-mediterraneo+A
 1685,ciancicare+V
 1686,sessantaseiesimo+A
-1687,precludere+V
+1687,precludaere+V
 1688,frammischiare+V
 1689,superminimo+N
 1690,tramortire+V
@@ -1730,7 +1730,7 @@ Id,Category
 1729,circumnavigare+V
 1730,vegeto+A
 1731,nauseare+V
-1732,pulviscol+A
+1732,pulvis+A
 1733,medicamentoso+A
 1734,disagiare+V
 1735,aggraffare+V
@@ -1824,7 +1824,7 @@ Id,Category
 1823,smarrire+V
 1824,defilare+V
 1825,misurazione+N
-1826,cellulit+N
+1826,cellulite+N
 1827,vetrioleggiare+V
 1828,strabuzzare+V
 1829,cervicale+A
@@ -1945,7 +1945,7 @@ Id,Category
 1944,confinare+V
 1945,capottare+V
 1946,troncare+V
-1947,schermre+V
+1947,schermire+V
 1948,incoraggiare+V
 1949,differenziare+V
 1950,ubicare+V
@@ -2214,7 +2214,7 @@ Id,Category
 2213,infilzare+V
 2214,scuotere+V
 2215,godere+V
-2216,incrudeire+V
+2216,incrudire+V
 2217,risciacquare+V
 2218,scherzare+A
 2219,apostrofare+V
@@ -2337,7 +2337,7 @@ Id,Category
 2336,inamidare+V
 2337,marcare+V
 2338,standardizzazione+N
-2339,dirime+V
+2339,dirimere+V
 2340,soffriggere+V
 2341,stampare+V
 2342,collaborazionista+N
@@ -2381,7 +2381,7 @@ Id,Category
 2380,arruffare+V
 2381,ammodernare+V
 2382,infondere+V
-2383,punt+A
+2383,punto+A
 2384,orecchiare+V
 2385,sminuzzare+V
 2386,spiegare+V
@@ -2417,7 +2417,7 @@ Id,Category
 2416,autointerrogare+V
 2417,trastullare+V
 2418,intrappolare+V
-2419,autoassolvre+V
+2419,autoassore+V
 2420,disperdere+V
 2421,berciare+V
 2422,fratturare+V
@@ -2432,7 +2432,7 @@ Id,Category
 2431,ragguagliare+V
 2432,crucciare+V
 2433,esteriorizzare+V
-2434,opulentao+A
+2434,opulento+A
 2435,sottovalutare+V
 2436,crocchiare+A
 2437,mentire+V
@@ -2458,7 +2458,7 @@ Id,Category
 2457,autoassolvere+V
 2458,tessere+V
 2459,infangare+V
-2460,stramaledettea+N
+2460,stramaledetta+N
 2461,odorare+V
 2462,illanguidire+V
 2463,indubbiao+A
@@ -2476,7 +2476,7 @@ Id,Category
 2475,ultimare+V
 2476,accentrare+V
 2477,irregolare+V
-2478,lichenio+N
+2478,licheno+N
 2479,pregiare+V
 2480,riflettere+V
 2481,pacificare+V
@@ -2600,7 +2600,7 @@ Id,Category
 2599,scrostare+V
 2600,incrudire+V
 2601,travalicare+V
-2602,convieneo+N
+2602,convieno+N
 2603,bombare+N
 2604,sintonizzare+V
 2605,naturalistico+A
@@ -2636,7 +2636,7 @@ Id,Category
 2635,delegittimare+V
 2636,autosmentire+V
 2637,lerciare+V
-2638,computare+V
+2638,computre+V
 2639,straboccare+V
 2640,sovraccaricare+V
 2641,bisticciare+V
@@ -2740,7 +2740,7 @@ Id,Category
 2739,istituzionalizzare+A
 2740,zufolare+V
 2741,incongruo+A
-2742,autopurificantie+A
+2742,autopurificante+A
 2743,diventare+V
 2744,decolonizzare+V
 2745,stipulare+A
@@ -2749,7 +2749,7 @@ Id,Category
 2748,rinsaldare+V
 2749,riaccostare+V
 2750,gridre+V
-2751,disseppellre+V
+2751,disseppere+V
 2752,tralignare+V
 2753,detenere+V
 2754,enfatizzazione+N
@@ -2770,7 +2770,7 @@ Id,Category
 2769,ingozzare+V
 2770,rafforzare+V
 2771,maggiorare+V
-2772,accomodereare+V
+2772,accomodare+V
 2773,condividere+V
 2774,parificazione+N
 2775,favellare+V
@@ -2800,7 +2800,7 @@ Id,Category
 2799,neopresidente+N
 2800,arrestare+V
 2801,girellare+V
-2802,incisdere+V
+2802,incidere+V
 2803,cirineo+A
 2804,decaere+V
 2805,destare+V
@@ -2828,7 +2828,7 @@ Id,Category
 2827,confidare+V
 2828,autocensurare+V
 2829,alveare+V
-2830,insorgre+V
+2830,insore+V
 2831,frollare+V
 2832,iniziare+V
 2833,sventagliare+V
@@ -2973,14 +2973,14 @@ Id,Category
 2972,spodestare+V
 2973,zoppicare+V
 2974,cedere+V
-2975,fatidic+A
+2975,fati+A
 2976,traspirare+V
 2977,rispolverare+V
 2978,attaccare+V
 2979,prestabilire+V
 2980,connettere+V
 2981,sottocutaneo+A
-2982,francofon+A
+2982,francof+A
 2983,scampato+A
 2984,contagiare+V
 2985,menzionare+V
@@ -3023,7 +3023,7 @@ Id,Category
 3022,operetto+N
 3023,svantaggiare+V
 3024,scappatoia+N
-3025,trespolio+N
+3025,trespolo+N
 3026,rinunziare+V
 3027,ciurlare+V
 3028,fondista+N
@@ -3101,7 +3101,7 @@ Id,Category
 3100,chiappare+V
 3101,strafottare+V
 3102,imbrattare+V
-3103,sfidre+V
+3103,sfidare+V
 3104,rintontire+V
 3105,shockare+V
 3106,sfuggire+V
@@ -3116,7 +3116,7 @@ Id,Category
 3115,quadretto+N
 3116,saturnizzare+V
 3117,scarrozzare+V
-3118,diuturnao+A
+3118,diuturno+A
 3119,deidratare+V
 3120,disseminare+V
 3121,ballottaggio+N
@@ -3313,7 +3313,7 @@ Id,Category
 3312,eleganza+N
 3313,impazzire+V
 3314,affaticare+V
-3315,comodeo+A
+3315,comodo+A
 3316,cielo+N
 3317,ciclabile+A
 3318,riscrivere+V
@@ -3409,7 +3409,7 @@ Id,Category
 3408,falsificare+V
 3409,leccornia+N
 3410,affissare+V
-3411,salare+V
+3411,salre+V
 3412,aborrare+V
 3413,svilire+V
 3414,espirare+V
@@ -3429,7 +3429,7 @@ Id,Category
 3428,connettere+V
 3429,putire+V
 3430,spaccato+A
-3431,rabbonre+V
+3431,rabbonire+V
 3432,derubricare+V
 3433,errare+V
 3434,imbottigliare+V
@@ -3453,7 +3453,7 @@ Id,Category
 3452,accavallare+V
 3453,promuovere+V
 3454,aggrottare+V
-3455,membrut+A
+3455,membruto+A
 3456,gabonese+A
 3457,confliggere+V
 3458,affascinare+V
@@ -3528,7 +3528,7 @@ Id,Category
 3527,mettere+V
 3528,esitare+V
 3529,disinfettare+V
-3530,spasimre+V
+3530,spasire+V
 3531,spanciare+A
 3532,attorcigliare+V
 3533,islamizzare+V
@@ -3545,7 +3545,7 @@ Id,Category
 3544,rotare+V
 3545,inurbare+V
 3546,illuminare+V
-3547,rigurgit+N
+3547,rigurgito+N
 3548,rifilare+A
 3549,smagnetizzare+V
 3550,prolificare+A
@@ -3556,7 +3556,7 @@ Id,Category
 3555,mitridatizzare+V
 3556,rattrappire+V
 3557,stellare+V
-3558,rifiatre+V
+3558,rifiare+V
 3559,appiccicare+V
 3560,veicolare+V
 3561,istigatore+N
@@ -3646,7 +3646,7 @@ Id,Category
 3645,commettere+V
 3646,nobilitare+V
 3647,documentare+V
-3648,rettor+A
+3648,rettori+A
 3649,scolare+V
 3650,orso+A
 3651,cromare+V
@@ -3711,7 +3711,7 @@ Id,Category
 3710,delegittimare+V
 3711,lottare+V
 3712,stilare+V
-3713,roseao+A
+3713,roseo+A
 3714,insanguinare+V
 3715,spaurito+A
 3716,impaniare+V
@@ -3860,7 +3860,7 @@ Id,Category
 3859,ravvicinare+V
 3860,accostumare+V
 3861,fisiologico+A
-3862,accontentre+V
+3862,accontentare+V
 3863,trasportare+V
 3864,plorare+A
 3865,scaricare+V
@@ -3870,7 +3870,7 @@ Id,Category
 3869,assaggiare+V
 3870,marmorizzare+V
 3871,rifiatare+V
-3872,proibre+V
+3872,proibire+V
 3873,intenzionale+A
 3874,arabescare+V
 3875,dirottare+V
@@ -3921,7 +3921,7 @@ Id,Category
 3920,dimenticare+V
 3921,scrostare+V
 3922,abbacchiare+V
-3923,puoio+N
+3923,puoo+N
 3924,ritrattare+V
 3925,ingioiellare+V
 3926,autoinstallare+V
@@ -3946,7 +3946,7 @@ Id,Category
 3945,inutilizzare+V
 3946,dissequestrare+V
 3947,pipiare+V
-3948,scafandrre+N
+3948,scafandrire+N
 3949,tatuare+V
 3950,succedere+V
 3951,sciroppare+V
@@ -3981,7 +3981,7 @@ Id,Category
 3980,pasturare+V
 3981,allibrare+A
 3982,fraintendere+V
-3983,partecipre+A
+3983,partecipere+A
 3984,sovrintendere+V
 3985,maldestro+N
 3986,rombare+V
@@ -4222,14 +4222,14 @@ Id,Category
 4221,mescolare+V
 4222,affusolare+V
 4223,implorare+V
-4224,ibernre+V
+4224,ibernare+V
 4225,rabescare+A
 4226,investire+V
 4227,raddensare+V
 4228,acquisire+V
 4229,schematizzare+V
 4230,complimentare+V
-4231,riversre+V
+4231,riverre+V
 4232,spezzettare+V
 4233,imbronciare+V
 4234,divaricare+V
@@ -4338,7 +4338,7 @@ Id,Category
 4337,sopraccigliare+V
 4338,dissuadere+V
 4339,infuondere+V
-4340,canap+N
+4340,canapo+N
 4341,citofonare+V
 4342,minia+V
 4343,intervistare+V
@@ -4447,7 +4447,7 @@ Id,Category
 4446,rintracciare+V
 4447,convolare+V
 4448,banalizzare+V
-4449,ultimre+V
+4449,ultire+V
 4450,conciliare+V
 4451,perdizione+N
 4452,contorcere+V
@@ -4536,7 +4536,7 @@ Id,Category
 4535,discacciare+V
 4536,fluidificare+V
 4537,tappezzare+V
-4538,vinicolao+A
+4538,vinicolo+A
 4539,principale+A
 4540,rivendicare+V
 4541,reciprocare+V
@@ -4544,7 +4544,7 @@ Id,Category
 4543,taurare+A
 4544,insignire+A
 4545,seghettare+V
-4546,forsennao+N
+4546,forsennato+N
 4547,rincrescere+V
 4548,ravvolgere+A
 4549,adontare+V
@@ -4625,7 +4625,7 @@ Id,Category
 4624,orchestra+V
 4625,intramezzare+V
 4626,supporre+V
-4627,duio+N
+4627,duo+N
 4628,increscere+V
 4629,pontificare+V
 4630,filosofeggiare+V
@@ -4684,7 +4684,7 @@ Id,Category
 4683,illeggiadrire+V
 4684,meravigliare+A
 4685,spossare+V
-4686,rimarrenere+V
+4686,rimanere+V
 4687,ripromettere+V
 4688,intossicare+V
 4689,rassegnazione+N
@@ -5045,7 +5045,7 @@ Id,Category
 5044,assurgere+V
 5045,imperiare+V
 5046,laureo+A
-5047,nottambulie+N
+5047,nottambule+N
 5048,imbrogliare+V
 5049,esorcizzare+A
 5050,anti-juventino+A
@@ -5059,7 +5059,7 @@ Id,Category
 5058,ritagliare+V
 5059,dilettare+V
 5060,spodestare+V
-5061,criptre+V
+5061,cripre+V
 5062,spodestare+V
 5063,vogatore+N
 5064,digiunare+V
@@ -5137,7 +5137,7 @@ Id,Category
 5136,completare+V
 5137,ragionevolezza+N
 5138,frastagliare+V
-5139,rimbambeire+V
+5139,rimbambire+V
 5140,trasformare+V
 5141,svincolare+V
 5142,giganteggiare+V
@@ -5208,7 +5208,7 @@ Id,Category
 5207,microspia+N
 5208,incrudire+V
 5209,rinnovellare+V
-5210,malverare+V
+5210,malversare+V
 5211,antiatomico+A
 5212,progenitore+A
 5213,squarciare+V
@@ -5220,7 +5220,7 @@ Id,Category
 5219,volare+V
 5220,rintracciare+V
 5221,post-comunista+A
-5222,servitre+V
+5222,servire+V
 5223,frisare+V
 5224,ospitare+V
 5225,stordire+V
@@ -5229,7 +5229,7 @@ Id,Category
 5228,inconoscibile+A
 5229,sghignazzare+V
 5230,ricollegare+V
-5231,repertio+N
+5231,reperto+N
 5232,ammainare+V
 5233,rastrellare+V
 5234,insospettire+V
@@ -5256,7 +5256,7 @@ Id,Category
 5255,estendere+V
 5256,rasciugare+V
 5257,saggezzare+N
-5258,congolea+V
+5258,congolesa+V
 5259,plastificare+V
 5260,inserire+V
 5261,accapponare+V
@@ -5276,7 +5276,7 @@ Id,Category
 5275,fiumo+N
 5276,scorporare+V
 5277,colare+V
-5278,superliquidao+A
+5278,superliquido+A
 5279,defluire+V
 5280,rincivilire+V
 5281,ingurgitare+V
@@ -5323,7 +5323,7 @@ Id,Category
 5322,smungere+V
 5323,sconcertare+V
 5324,vidimare+V
-5325,risovere+V
+5325,risolvere+V
 5326,vittimizzare+V
 5327,sdoppiare+V
 5328,cesellare+V
@@ -5362,7 +5362,7 @@ Id,Category
 5361,cesellare+V
 5362,ragionare+V
 5363,arrogare+V
-5364,spensierao+N
+5364,spensierato+N
 5365,scrostare+V
 5366,paraguayano+N
 5367,ufficializzare+V
@@ -5426,7 +5426,7 @@ Id,Category
 5425,esperienza+N
 5426,ciel+N
 5427,pervertire+V
-5428,sconvenre+V
+5428,sconvere+V
 5429,essere+V
 5430,ipotecare+V
 5431,mediare+V
@@ -5460,7 +5460,7 @@ Id,Category
 5459,precitare+V
 5460,chiostrare+V
 5461,strillo+N
-5462,corsar+A
+5462,corsaro+A
 5463,rivogllere+V
 5464,scantonare+V
 5465,cristallizzare+V
@@ -5522,7 +5522,7 @@ Id,Category
 5521,fanciullezza+N
 5522,malversare+V
 5523,furoreggiare+V
-5524,irresolut+A
+5524,irresoluto+A
 5525,tergiversare+V
 5526,spossare+V
 5527,torturare+V
@@ -5631,7 +5631,7 @@ Id,Category
 5630,vaticinare+V
 5631,ghermire+V
 5632,indisporre+V
-5633,aduggeriare+V
+5633,aduggiare+V
 5634,dattilografare+V
 5635,vestibolare+V
 5636,sabbiare+V
@@ -5648,7 +5648,7 @@ Id,Category
 5647,cremare+V
 5648,ottenere+V
 5649,islamizzare+V
-5650,siculao+A
+5650,siculo+A
 5651,abolire+V
 5652,allevare+V
 5653,ripentire+V
@@ -5702,7 +5702,7 @@ Id,Category
 5701,trare+V
 5702,campano+A
 5703,marciare+V
-5704,ambivalentre+A
+5704,ambivalentere+A
 5705,storto+A
 5706,sgranchire+V
 5707,poeticizzare+V
@@ -5761,7 +5761,7 @@ Id,Category
 5760,storpiare+V
 5761,gestire+V
 5762,prezioso+A
-5763,barattre+V
+5763,barattare+V
 5764,cocaina+N
 5765,pizzicottare+V
 5766,prescrivere+V
@@ -5889,7 +5889,7 @@ Id,Category
 5888,ciancicare+V
 5889,fiocinare+V
 5890,accorpare+V
-5891,coloraire+N
+5891,coloratire+N
 5892,assommare+V
 5893,leggenda+N
 5894,cantrice+N
@@ -5911,7 +5911,7 @@ Id,Category
 5910,raffinare+V
 5911,angarire+V
 5912,dimenare+V
-5913,vertre+V
+5913,verre+V
 5914,stridere+V
 5915,drogare+V
 5916,impersonare+V
@@ -5991,7 +5991,7 @@ Id,Category
 5990,sfrangere+V
 5991,copiare+V
 5992,indebitare+V
-5993,dritt+A
+5993,dritto+A
 5994,sfumato+A
 5995,passo+V
 5996,polietileni+N
@@ -6047,7 +6047,7 @@ Id,Category
 6046,imprecare+V
 6047,teleguidare+A
 6048,separare+V
-6049,incordare+V
+6049,incordre+V
 6050,appagare+V
 6051,vituperare+V
 6052,impazzire+V
@@ -6204,7 +6204,7 @@ Id,Category
 6203,dimenticare+V
 6204,ricompattamento+N
 6205,sonnecchiare+V
-6206,snodare+V
+6206,snodre+V
 6207,sdoppiare+V
 6208,afferrare+A
 6209,inguainare+V
@@ -6234,7 +6234,7 @@ Id,Category
 6233,inebetire+V
 6234,adescare+V
 6235,congedare+V
-6236,lambeire+V
+6236,lambire+V
 6237,ritorcere+V
 6238,carburare+V
 6239,neocomunista+N
@@ -6281,7 +6281,7 @@ Id,Category
 6280,dorare+V
 6281,flessuoso+A
 6282,previsto+A
-6283,burocratre+N
+6283,burocratere+N
 6284,persuadere+V
 6285,desertificare+V
 6286,ammantare+V
@@ -6437,7 +6437,7 @@ Id,Category
 6436,annualizzare+V
 6437,nativo+N
 6438,spiumare+V
-6439,lentao+N
+6439,lento+N
 6440,schiodare+V
 6441,calettare+V
 6442,dilazionare+V
@@ -6465,7 +6465,7 @@ Id,Category
 6464,comprare+V
 6465,sbeccare+V
 6466,ingobbire+A
-6467,ricondrre+V
+6467,ricondurre+V
 6468,marsalare+V
 6469,ridire+V
 6470,cedere+V
@@ -6520,7 +6520,7 @@ Id,Category
 6519,conciare+V
 6520,disgustare+V
 6521,scervellare+V
-6522,negare+N
+6522,are+N
 6523,brutalizzare+V
 6524,rettangola+A
 6525,lustrare+V
@@ -6532,7 +6532,7 @@ Id,Category
 6531,affettare+V
 6532,dribblare+V
 6533,guaire+V
-6534,rabdomant+N
+6534,rabdoma+N
 6535,salariare+V
 6536,riuscire+V
 6537,disorientare+V
@@ -6563,7 +6563,7 @@ Id,Category
 6562,obiettare+A
 6563,sculettare+V
 6564,percolare+V
-6565,farett+N
+6565,faretti+N
 6566,rincrescere+V
 6567,allergico+A
 6568,arroccare+V
@@ -6575,7 +6575,7 @@ Id,Category
 6574,affabulare+V
 6575,nobilitare+V
 6576,incivilire+V
-6577,decelerre+V
+6577,decelerare+V
 6578,estorcere+V
 6579,infognare+V
 6580,variopinto+A
@@ -6592,7 +6592,7 @@ Id,Category
 6591,infocare+V
 6592,condiscendere+V
 6593,sterilizzare+V
-6594,baldao+A
+6594,baldo+A
 6595,rombare+V
 6596,stone+N
 6597,impermalire+V
@@ -6607,7 +6607,7 @@ Id,Category
 6606,volgare+V
 6607,gradimento+N
 6608,pescare+V
-6609,pennivendol+N
+6609,pennivendolo+N
 6610,ricantare+V
 6611,citare+V
 6612,decantare+V
@@ -6718,7 +6718,7 @@ Id,Category
 6717,obiettare+V
 6718,piccione+N
 6719,malintenzionato+A
-6720,maltao+N
+6720,malto+N
 6721,biglietto+N
 6722,egemonizzare+V
 6723,infeudare+V
@@ -6731,7 +6731,7 @@ Id,Category
 6730,rivendicare+V
 6731,confiscare+V
 6732,vigilare+V
-6733,secondre+V
+6733,seconre+V
 6734,pasteggiare+V
 6735,forviare+V
 6736,amare+A
@@ -6766,7 +6766,7 @@ Id,Category
 6765,obbiezione+N
 6766,rintoccare+V
 6767,cementificazione+N
-6768,assorbentie+N
+6768,assorbente+N
 6769,ghermare+V
 6770,inguainare+V
 6771,gioire+V
@@ -6858,7 +6858,7 @@ Id,Category
 6857,ischeletrire+V
 6858,susseguire+V
 6859,impostare+V
-6860,illegittimao+A
+6860,illegittimo+A
 6861,destituire+V
 6862,apporre+V
 6863,accingere+V
@@ -6883,7 +6883,7 @@ Id,Category
 6882,recidivare+V
 6883,attempato+A
 6884,fratturare+V
-6885,immagazzinre+V
+6885,immagazzinare+V
 6886,sincopare+V
 6887,precostituire+A
 6888,propinare+V
@@ -6967,7 +6967,7 @@ Id,Category
 6966,scuotere+V
 6967,concatenare+V
 6968,assemblare+V
-6969,intervistre+V
+6969,intervire+V
 6970,scaldare+V
 6971,gargarizzare+V
 6972,dolare+V
@@ -7027,7 +7027,7 @@ Id,Category
 7026,richiamare+V
 7027,destabilizzare+V
 7028,satollare+V
-7029,baggianatre+N
+7029,baggianatare+N
 7030,frugare+V
 7031,abortire+V
 7032,riassicurare+V
@@ -7106,7 +7106,7 @@ Id,Category
 7105,reiterare+V
 7106,registratore+A
 7107,civettare+A
-7108,levatoi+A
+7108,leva+A
 7109,rintanare+V
 7110,schifare+V
 7111,rivendere+V
@@ -7153,7 +7153,7 @@ Id,Category
 7152,pollare+V
 7153,dosare+V
 7154,acchiappare+V
-7155,fantascientific+A
+7155,fantascienti+A
 7156,moroso+A
 7157,stratosfera+N
 7158,foracchiare+V
@@ -7308,7 +7308,7 @@ Id,Category
 7307,infingere+V
 7308,sputare+V
 7309,dipanare+V
-7310,perdre+V
+7310,pere+V
 7311,affluire+V
 7312,spennare+V
 7313,cingalese+N
@@ -7437,7 +7437,7 @@ Id,Category
 7436,incuneare+V
 7437,reinserire+V
 7438,incordare+V
-7439,congenre+V
+7439,congenere+V
 7440,maschiare+V
 7441,scartoffia+N
 7442,combattere+V
@@ -7460,7 +7460,7 @@ Id,Category
 7459,interloquire+V
 7460,dissequestro+V
 7461,sfavillare+V
-7462,sussegure+V
+7462,sussere+V
 7463,gettare+V
 7464,alveare+V
 7465,giganteggiare+V
@@ -7523,12 +7523,12 @@ Id,Category
 7522,anglicizzare+V
 7523,posizionare+V
 7524,ubicare+V
-7525,azzurrao+A
+7525,azzurro+A
 7526,lesinare+V
 7527,arruffare+V
 7528,combattere+V
 7529,quattromillesimo+A
-7530,ricaricare+N
+7530,rare+N
 7531,citofonare+V
 7532,liberare+N
 7533,raggirare+A
@@ -7537,12 +7537,12 @@ Id,Category
 7536,capponare+V
 7537,scarseggiare+V
 7538,arrestare+V
-7539,sareo+V
+7539,saresto+V
 7540,basire+V
 7541,impalcare+V
 7542,provare+V
 7543,ospitare+V
-7544,spregiudicat+A
+7544,spregiudicato+A
 7545,eccedere+V
 7546,inghiottire+V
 7547,sfrangiare+V
@@ -7592,7 +7592,7 @@ Id,Category
 7591,ritornare+V
 7592,deregolare+V
 7593,riabilitare+V
-7594,suonre+V
+7594,suonare+V
 7595,vistare+V
 7596,novarese+N
 7597,rintracciare+V
@@ -7680,7 +7680,7 @@ Id,Category
 7679,climatologico+A
 7680,sbramare+V
 7681,nomare+V
-7682,andirivo+V
+7682,andirivio+V
 7683,sbramare+V
 7684,inchinare+V
 7685,spifferare+V
@@ -7696,10 +7696,10 @@ Id,Category
 7695,spartire+V
 7696,immigrare+V
 7697,esistere+V
-7698,svicoloare+V
+7698,svicolare+V
 7699,borrare+V
 7700,britanno+N
-7701,manipol+N
+7701,manipolo+N
 7702,editare+V
 7703,miserabile+A
 7704,prescindere+V
@@ -7826,7 +7826,7 @@ Id,Category
 7825,nettare+V
 7826,magnetizzare+V
 7827,impacciare+V
-7828,ristudioare+V
+7828,ristudiare+V
 7829,ibernare+V
 7830,riesplodere+V
 7831,falsare+V
@@ -7849,7 +7849,7 @@ Id,Category
 7848,correre+V
 7849,cavallare+V
 7850,ingigantire+V
-7851,affaticre+V
+7851,affatire+V
 7852,funerario+A
 7853,referendario+A
 7854,assoldare+V
@@ -7858,7 +7858,7 @@ Id,Category
 7857,aggettivare+V
 7858,affievolire+V
 7859,disistimare+V
-7860,trasalre+V
+7860,trasre+V
 7861,orinare+V
 7862,cauterizzare+V
 7863,madama+N
@@ -7915,7 +7915,7 @@ Id,Category
 7914,favoreggiare+V
 7915,diagnosticare+V
 7916,intelletto+N
-7917,insaliare+V
+7917,insalivare+V
 7918,ruzzare+V
 7919,cercatore+A
 7920,indebolire+V
@@ -7924,7 +7924,7 @@ Id,Category
 7923,escrescere+V
 7924,ritagliare+V
 7925,ovviare+V
-7926,ovvo+V
+7926,ovo+V
 7927,bussare+V
 7928,mangiucchiare+V
 7929,offere+V
@@ -7953,7 +7953,7 @@ Id,Category
 7952,rattrappire+V
 7953,frammettere+V
 7954,cruciale+A
-7955,malcontentao+A
+7955,malcontento+A
 7956,appendere+V
 7957,spiegare+V
 7958,purificare+V
@@ -7962,7 +7962,7 @@ Id,Category
 7961,giganteggiare+V
 7962,aduggiare+V
 7963,sbertucciare+V
-7964,impinguerare+V
+7964,impinguare+V
 7965,configurare+V
 7966,frinire+V
 7967,esilarare+V
@@ -8052,7 +8052,7 @@ Id,Category
 8051,sbandire+V
 8052,tributaria+N
 8053,bracciato+N
-8054,anticorp+A
+8054,anticorpo+A
 8055,concistoriale+A
 8056,autorizzazione+N
 8057,roteare+V
@@ -8081,11 +8081,11 @@ Id,Category
 8080,discriminare+A
 8081,espungere+V
 8082,impertinenza+N
-8083,sordomut+A
+8083,sordomuto+A
 8084,salare+V
 8085,rozzo+A
 8086,distillare+A
-8087,fisicao+N
+8087,fisico+N
 8088,frignare+V
 8089,strabocchevole+A
 8090,mutilare+A
@@ -8155,7 +8155,7 @@ Id,Category
 8154,trasformare+V
 8155,dissequestrare+V
 8156,appassionato+A
-8157,rimare+V
+8157,rimereare+V
 8158,snellire+V
 8159,annacquare+V
 8160,partito-stato+N
@@ -8289,7 +8289,7 @@ Id,Category
 8288,annualizzare+V
 8289,spronare+V
 8290,autoanalizzare+V
-8291,incongruao+A
+8291,incongruo+A
 8292,anticipazione+N
 8293,incivilire+V
 8294,imbacuccare+V
@@ -8453,7 +8453,7 @@ Id,Category
 8452,sbozzare+V
 8453,veterana+N
 8454,lagnoso+A
-8455,reclutao+N
+8455,recluto+N
 8456,estradare+V
 8457,commuovere+V
 8458,generatore+A
@@ -8582,7 +8582,7 @@ Id,Category
 8581,rissare+V
 8582,autointerrogare+V
 8583,essiccare+V
-8584,riserviare+V
+8584,riservistare+V
 8585,imbiaccare+V
 8586,protocollare+V
 8587,liberaldemocrazia+N
@@ -8626,7 +8626,7 @@ Id,Category
 8625,autotutelare+V
 8626,ciarlare+V
 8627,raccattare+V
-8628,concordat+A
+8628,concordato+A
 8629,cauterizzare+V
 8630,cantilenare+V
 8631,trivellare+V
@@ -8710,7 +8710,7 @@ Id,Category
 8709,incordare+V
 8710,poggiare+V
 8711,montare+V
-8712,accessori+A
+8712,accessorio+A
 8713,maculato+A
 8714,disgustare+V
 8715,violare+V
@@ -8763,7 +8763,7 @@ Id,Category
 8762,stampare+V
 8763,co-finanziare+V
 8764,schiantare+V
-8765,ere+V
+8765,ee+V
 8766,ultras+N
 8767,livellare+V
 8768,regolamentare+V
@@ -8882,7 +8882,7 @@ Id,Category
 8881,devolvere+V
 8882,fiammifero+A
 8883,soprannominare+V
-8884,monocromeo+A
+8884,monocromo+A
 8885,balzellare+V
 8886,sopravvivere+V
 8887,somatizzare+V
@@ -8936,7 +8936,7 @@ Id,Category
 8935,chiosare+V
 8936,ossidrico+A
 8937,summe+N
-8938,sobbollre+V
+8938,sobbollire+V
 8939,fantasioso+A
 8940,costringere+V
 8941,vivacchiare+V
@@ -9011,7 +9011,7 @@ Id,Category
 9010,ignoranza+N
 9011,basilare+V
 9012,risospingere+V
-9013,abusat+A
+9013,abusato+A
 9014,autoironizzare+V
 9015,rasciugare+V
 9016,ferire+V
@@ -9109,7 +9109,7 @@ Id,Category
 9108,formalizzare+V
 9109,sfoderare+V
 9110,plastificare+V
-9111,spizzicre+V
+9111,spizzire+V
 9112,radunare+V
 9113,palliare+V
 9114,africano+A
@@ -9138,16 +9138,16 @@ Id,Category
 9137,gridare+V
 9138,infocare+V
 9139,comprovare+V
-9140,primigeni+A
+9140,primig+A
 9141,drogare+V
 9142,perplesso+N
 9143,configgere+V
-9144,conigli+N
+9144,coniglio+N
 9145,posstere+V
 9146,adibire+V
 9147,licenzioso+A
 9148,bramare+V
-9149,scantinre+V
+9149,scantre+V
 9150,dissentire+V
 9151,terminale+N
 9152,prestabilire+V
@@ -9268,7 +9268,7 @@ Id,Category
 9267,infocare+V
 9268,contrarre+V
 9269,disgustoso+A
-9270,stess+A
+9270,st+A
 9271,sensibilizzare+V
 9272,profanare+V
 9273,tracimare+V
@@ -9289,13 +9289,13 @@ Id,Category
 9288,incavato+A
 9289,dissecare+V
 9290,scarseggiare+V
-9291,assordare+V
+9291,assordereare+V
 9292,confliggere+V
 9293,spiegare+V
 9294,assegnare+V
 9295,storpiare+V
 9296,uguagliare+V
-9297,pimpantre+A
+9297,pimpare+A
 9298,avvicendare+V
 9299,traviare+A
 9300,derubare+V
@@ -9321,7 +9321,7 @@ Id,Category
 9320,vascellare+N
 9321,appiccicoso+A
 9322,tecnicizzare+V
-9323,tremendeo+A
+9323,tremendo+A
 9324,convenire+V
 9325,tarare+V
 9326,pipiare+V
@@ -9342,7 +9342,7 @@ Id,Category
 9341,schiacciare+V
 9342,abortire+V
 9343,rinviare+V
-9344,preludre+V
+9344,preludire+V
 9345,consacrazione+N
 9346,impalcare+V
 9347,patire+V
@@ -9377,7 +9377,7 @@ Id,Category
 9376,esordo+N
 9377,rimarginare+V
 9378,tatuare+V
-9379,decadrere+V
+9379,decadraere+V
 9380,regionalizzare+V
 9381,scuotere+V
 9382,catechizzare+V
@@ -9448,7 +9448,7 @@ Id,Category
 9447,addivenire+V
 9448,berciare+V
 9449,scompigliare+V
-9450,scampolio+N
+9450,scampolo+N
 9451,spiazzare+V
 9452,allungare+V
 9453,ondeggiare+V
@@ -9557,7 +9557,7 @@ Id,Category
 9556,ciliegio+N
 9557,aprire+V
 9558,disattendere+V
-9559,reticell+N
+9559,reticelle+N
 9560,rosolare+V
 9561,bisticciare+V
 9562,padroneggiare+V
@@ -9695,7 +9695,7 @@ Id,Category
 9694,ballonzolare+V
 9695,spennare+V
 9696,vulcanizzare+V
-9697,fiabescao+A
+9697,fiabesco+A
 9698,pugnalare+V
 9699,banalizzare+V
 9700,caldeggiare+V
@@ -9799,10 +9799,10 @@ Id,Category
 9798,sbalzare+V
 9799,tarmare+V
 9800,addolcire+V
-9801,profonderare+V
+9801,profonderaare+V
 9802,sfrangiare+V
 9803,scorporare+V
-9804,ricoceuocere+V
+9804,ricouocere+V
 9805,leghismo+N
 9806,equilibrare+V
 9807,conquidare+V
@@ -9822,7 +9822,7 @@ Id,Category
 9821,intrigare+V
 9822,snebbiare+V
 9823,giungere+V
-9824,ingentilre+V
+9824,ingentilire+V
 9825,vedute+N
 9826,abboffare+V
 9827,rinegoziare+V
@@ -9907,7 +9907,7 @@ Id,Category
 9906,impersonare+V
 9907,confluire+V
 9908,stappare+V
-9909,strigliatre+N
+9909,strigliatare+N
 9910,esitare+V
 9911,collinare+V
 9912,inverdire+V
@@ -10037,7 +10037,7 @@ Id,Category
 10036,sfamare+V
 10037,disperdere+V
 10038,insinuare+V
-10039,mollusare+V
+10039,molluscare+V
 10040,echeggiare+V
 10041,premiare+V
 10042,stracuocere+V
@@ -10054,7 +10054,7 @@ Id,Category
 10053,ristare+V
 10054,avvicendare+V
 10055,disserrare+V
-10056,condolre+V
+10056,condre+V
 10057,partitoto+N
 10058,rapprendere+V
 10059,uniformare+V
@@ -10237,7 +10237,7 @@ Id,Category
 10236,ammosciare+V
 10237,selvaggia+A
 10238,capitalina+N
-10239,paradisiacao+A
+10239,paradisiaco+A
 10240,dissecare+V
 10241,appropriare+V
 10242,influenzare+V
@@ -10286,7 +10286,7 @@ Id,Category
 10285,aspergere+V
 10286,esecrare+V
 10287,erodaere+V
-10288,pornao+A
+10288,porno+A
 10289,arcuare+V
 10290,sfaldare+V
 10291,soleggiare+V
@@ -10320,9 +10320,9 @@ Id,Category
 10319,figurare+V
 10320,incuneare+V
 10321,impaperare+V
-10322,riassunt+A
+10322,riassunto+A
 10323,efebo+N
-10324,delizire+V
+10324,delire+V
 10325,annientare+V
 10326,stappare+V
 10327,dorare+V
@@ -10360,7 +10360,7 @@ Id,Category
 10359,avallare+V
 10360,deprivare+V
 10361,imbacuccare+V
-10362,riflettere+V
+10362,riflett+V
 10363,disarmato+A
 10364,giogo+N
 10365,compendiare+V
@@ -10504,9 +10504,9 @@ Id,Category
 10503,ingioiellare+V
 10504,instradare+V
 10505,anti-berlusconiano+A
-10506,fitt+A
+10506,fitto+A
 10507,meravigliare+V
-10508,fuorusceire+V
+10508,fuoruscire+V
 10509,regionalizzare+V
 10510,slanciare+V
 10511,odorare+V
@@ -10551,7 +10551,7 @@ Id,Category
 10550,escrescere+V
 10551,eradicare+V
 10552,umanizzare+V
-10553,evade+V
+10553,evadere+V
 10554,impazzire+V
 10555,inacidire+V
 10556,diffidenza+N
@@ -10636,7 +10636,7 @@ Id,Category
 10635,cedere+V
 10636,garbo+N
 10637,sincopare+V
-10638,ghermre+V
+10638,ghermire+V
 10639,esagerare+V
 10640,intossicare+V
 10641,brunire+V
@@ -10649,10 +10649,10 @@ Id,Category
 10648,nutrimento+N
 10649,strumentare+V
 10650,parcheggiare+V
-10651,poligraficao+N
+10651,poligrafico+N
 10652,sottovalutare+V
 10653,trivellare+V
-10654,sveltto+A
+10654,svelto+A
 10655,divezzare+V
 10656,rilegare+V
 10657,canalone+N
@@ -10680,7 +10680,7 @@ Id,Category
 10679,poppare+V
 10680,copraire+V
 10681,smerlare+V
-10682,stupor+N
+10682,stupore+N
 10683,imprigionare+A
 10684,ignotare+A
 10685,poveretto+N
@@ -10737,7 +10737,7 @@ Id,Category
 10736,cavare+V
 10737,vibrare+V
 10738,tacitare+V
-10739,ripiovere+V
+10739,ripiov+V
 10740,disegnare+V
 10741,colare+V
 10742,ghignare+V
@@ -10771,7 +10771,7 @@ Id,Category
 10770,rifluire+A
 10771,diserbare+V
 10772,disobbedire+V
-10773,autosostenre+V
+10773,autosostenere+V
 10774,allineare+V
 10775,afferire+A
 10776,razzare+N
@@ -10781,7 +10781,7 @@ Id,Category
 10780,subordinare+V
 10781,sonnecchiare+V
 10782,anti-riciclaggio+A
-10783,deputare+V
+10783,deputre+V
 10784,ergere+V
 10785,rivoltare+V
 10786,distornare+V
@@ -10816,7 +10816,7 @@ Id,Category
 10815,supporre+V
 10816,acconsentire+V
 10817,indicare+V
-10818,suddividre+V
+10818,suddivre+V
 10819,contraffare+V
 10820,rottamare+V
 10821,molcere+V
@@ -10873,7 +10873,7 @@ Id,Category
 10872,immagazzinare+V
 10873,ammarare+V
 10874,nauseare+V
-10875,malmess+A
+10875,malm+A
 10876,inquietare+V
 10877,scervellare+V
 10878,attorcere+V
@@ -10955,12 +10955,12 @@ Id,Category
 10954,prezzolare+V
 10955,registrare+V
 10956,ventitreesimo+A
-10957,condividere+V
+10957,condividaere+V
 10958,cruscheggiare+V
 10959,vomere+V
 10960,ghignare+V
 10961,ambientare+V
-10962,ultraviolett+A
+10962,ultravioletto+A
 10963,semicircolare+V
 10964,reinserire+V
 10965,rattrista+V
@@ -11081,7 +11081,7 @@ Id,Category
 11080,scompaginare+V
 11081,credere+V
 11082,siringo+N
-11083,piovere+V
+11083,piov+V
 11084,abbacchiare+V
 11085,gelatina+N
 11086,maturare+V
@@ -11121,7 +11121,7 @@ Id,Category
 11120,scagionare+V
 11121,incappare+V
 11122,decifrabile+A
-11123,inespressao+A
+11123,inespresso+A
 11124,mollare+V
 11125,illustrare+V
 11126,claudicare+A
@@ -11290,7 +11290,7 @@ Id,Category
 11289,barico+A
 11290,tesare+A
 11291,ordire+V
-11292,appress+A
+11292,appr+A
 11293,autodiagnosticare+V
 11294,ingurgitare+V
 11295,dimenare+V
@@ -11375,7 +11375,7 @@ Id,Category
 11374,fruttare+V
 11375,ammorbare+V
 11376,seguitare+V
-11377,raddolceire+V
+11377,raddolcire+V
 11378,clistere+N
 11379,ammantare+V
 11380,vegliare+V
@@ -11404,7 +11404,7 @@ Id,Category
 11403,invecchiamento+N
 11404,riproporre+V
 11405,ingelosire+V
-11406,elargre+V
+11406,elargire+V
 11407,irridaire+V
 11408,peritare+V
 11409,brandeggiare+V
@@ -11462,7 +11462,7 @@ Id,Category
 11461,arricciolare+V
 11462,schivare+V
 11463,atrofizzare+V
-11464,interludie+N
+11464,interlude+N
 11465,assemblare+V
 11466,assistere+A
 11467,porcello+N
@@ -11504,7 +11504,7 @@ Id,Category
 11503,pivello+N
 11504,vivaldiano+A
 11505,riabilitare+V
-11506,maare+V
+11506,manare+V
 11507,schioccare+V
 11508,stravolgere+V
 11509,rintracciare+V
@@ -11625,7 +11625,7 @@ Id,Category
 11624,immagazzinare+A
 11625,sbracare+V
 11626,compiangere+V
-11627,fintre+V
+11627,finre+V
 11628,avviamento+N
 11629,compulsare+V
 11630,sollevare+A
@@ -11724,11 +11724,11 @@ Id,Category
 11723,redentore+A
 11724,destinare+V
 11725,accerchiamento+N
-11726,assordiare+V
+11726,assordare+V
 11727,marzo+A
 11728,spronare+V
 11729,ritoccare+V
-11730,muffeire+V
+11730,muffire+V
 11731,divertire+V
 11732,ricrescere+V
 11733,rimestare+V
@@ -11827,7 +11827,7 @@ Id,Category
 11826,snellire+V
 11827,conciare+V
 11828,inchiodare+V
-11829,nerastrao+A
+11829,nerastro+A
 11830,interfacciare+V
 11831,muscolare+V
 11832,bluffare+V
@@ -11923,7 +11923,7 @@ Id,Category
 11922,rasserenare+A
 11923,spoetizzare+V
 11924,diagnosticare+V
-11925,spiovre+V
+11925,spire+V
 11926,acclamare+V
 11927,affissare+V
 11928,co-fondare+V
@@ -12026,7 +12026,7 @@ Id,Category
 12025,fogliare+V
 12026,recidivare+V
 12027,osteggiare+V
-12028,credaere+V
+12028,credere+V
 12029,probabilità+N
 12030,luministico+A
 12031,arrischiare+V
@@ -12035,7 +12035,7 @@ Id,Category
 12034,disossare+V
 12035,destalinizzare+V
 12036,parafrasare+V
-12037,isolott+N
+12037,isolotto+N
 12038,lustrare+V
 12039,impalmare+A
 12040,ammattonare+V
@@ -12085,7 +12085,7 @@ Id,Category
 12084,inzavorrare+V
 12085,infondere+V
 12086,diversione+N
-12087,tortorao+A
+12087,tortoro+A
 12088,fertilizzare+V
 12089,idrogenare+V
 12090,attorcere+V
@@ -12093,7 +12093,7 @@ Id,Category
 12092,sottocutaneo+A
 12093,viziare+V
 12094,dolere+V
-12095,strafottere+V
+12095,strafott+V
 12096,pronunziare+V
 12097,scorporare+A
 12098,sgravare+V
@@ -12124,7 +12124,7 @@ Id,Category
 12123,vizioso+A
 12124,superba+N
 12125,adulare+V
-12126,comperare+V
+12126,comperre+V
 12127,microfilmare+V
 12128,sforbiciare+V
 12129,solubilizzare+V
@@ -12159,7 +12159,7 @@ Id,Category
 12158,sopraccigliare+V
 12159,autodirigere+V
 12160,confidare+V
-12161,merlettare+V
+12161,merlettre+V
 12162,indomabile+A
 12163,sconsigliare+V
 12164,smaccare+N
@@ -12242,7 +12242,7 @@ Id,Category
 12241,inebetire+V
 12242,virtuale+A
 12243,ripassare+V
-12244,occhialut+A
+12244,occhialuto+A
 12245,ricapitalizzazione+N
 12246,volgare+V
 12247,impetare+V
@@ -12282,7 +12282,7 @@ Id,Category
 12281,autoinfliggere+V
 12282,recinto+A
 12283,specificare+V
-12284,eccepre+V
+12284,eccepire+V
 12285,scaricare+V
 12286,antropomorfizzare+V
 12287,abnegazione+N
@@ -12332,7 +12332,7 @@ Id,Category
 12331,fossare+V
 12332,reinnestare+V
 12333,stranito+A
-12334,sindacatin+N
+12334,sindacat+N
 12335,vociare+V
 12336,mappamondo+N
 12337,geminare+V
@@ -12430,7 +12430,7 @@ Id,Category
 12429,svestire+V
 12430,informare+V
 12431,sperequare+V
-12432,ingordeo+A
+12432,ingordo+A
 12433,collateralismo+N
 12434,sgrossare+V
 12435,rosolare+V
@@ -12460,7 +12460,7 @@ Id,Category
 12459,ringoiare+V
 12460,abbuffare+V
 12461,haire+V
-12462,decorare+V
+12462,decorre+V
 12463,spruzzare+V
 12464,alunna+N
 12465,pettegolare+V
@@ -12550,7 +12550,7 @@ Id,Category
 12549,fulminare+V
 12550,psicosomatico+A
 12551,cogestaire+V
-12552,zaires+N
+12552,zairesi+N
 12553,squassare+V
 12554,tiritera+N
 12555,traspirare+V
@@ -12691,7 +12691,7 @@ Id,Category
 12690,spaziare+V
 12691,agonizzare+V
 12692,attorcigliare+V
-12693,prest+V
+12693,pre+V
 12694,sciroppare+V
 12695,ritentare+V
 12696,ionizzare+V
@@ -12728,7 +12728,7 @@ Id,Category
 12727,chiarificare+V
 12728,languire+V
 12729,disinfettare+V
-12730,smarrre+V
+12730,smarrire+V
 12731,risultare+V
 12732,aggrottare+V
 12733,rodare+V
@@ -12900,7 +12900,7 @@ Id,Category
 12899,salve+N
 12900,collocare+V
 12901,trarre+V
-12902,liquiderare+V
+12902,liquideraare+V
 12903,svettare+V
 12904,fogliare+V
 12905,uscire+V
@@ -12950,7 +12950,7 @@ Id,Category
 12949,nuziale+A
 12950,deregolare+V
 12951,indebitare+V
-12952,incrementare+V
+12952,incrementre+V
 12953,debbiare+V
 12954,frollare+V
 12955,sovrintendere+V
@@ -13059,7 +13059,7 @@ Id,Category
 13058,barbugliare+V
 13059,pasteggiare+V
 13060,dedurre+V
-13061,sottocorrent+N
+13061,sottocorr+N
 13062,assurgere+V
 13063,ostracizzare+V
 13064,incrudire+V
@@ -13082,7 +13082,7 @@ Id,Category
 13081,scanalare+V
 13082,setacciare+V
 13083,infocare+V
-13084,soggiorn+V
+13084,soggio+V
 13085,assentire+V
 13086,rimarcare+V
 13087,appassire+V
@@ -13109,7 +13109,7 @@ Id,Category
 13108,diagnosticare+V
 13109,incuneare+V
 13110,berciare+V
-13111,mici+N
+13111,micio+N
 13112,combattere+V
 13113,periodizzare+V
 13114,sgroppare+V
@@ -13260,7 +13260,7 @@ Id,Category
 13259,inoltrare+V
 13260,scotennare+V
 13261,aggranchire+V
-13262,alleare+V
+13262,allevare+V
 13263,rinunziare+V
 13264,squalificare+V
 13265,compiangere+V
@@ -13336,7 +13336,7 @@ Id,Category
 13335,ricollegare+V
 13336,scafare+V
 13337,snebbiare+V
-13338,avvicenderare+V
+13338,avvicenderaare+V
 13339,ossessionare+V
 13340,gabbietta+N
 13341,coreografare+V
@@ -13397,7 +13397,7 @@ Id,Category
 13396,raffigurare+V
 13397,giuoco+N
 13398,industrializzare+V
-13399,incarognre+V
+13399,incarognire+V
 13400,peggiorare+V
 13401,violare+V
 13402,seghettare+V
@@ -13450,7 +13450,7 @@ Id,Category
 13449,accentare+V
 13450,spiovere+V
 13451,barcameno+V
-13452,sottostare+V
+13452,sottost+V
 13453,giostrare+V
 13454,fustellare+V
 13455,posso+V
@@ -13525,7 +13525,7 @@ Id,Category
 13524,assolutismo+N
 13525,arricciolare+V
 13526,diliscare+V
-13527,svaligioare+V
+13527,svaligiare+V
 13528,contraffare+V
 13529,dirimere+V
 13530,tatuare+V
@@ -13569,14 +13569,14 @@ Id,Category
 13568,scotennare+V
 13569,suscettibile+A
 13570,cazzeggiare+V
-13571,rimbalzio+N
+13571,rimbalzo+N
 13572,alfabetizzare+A
 13573,edificare+V
 13574,scompigliare+V
 13575,alettare+V
 13576,agguagliare+V
 13577,riesplodere+V
-13578,ventiseienn+N
+13578,ventiseienne+N
 13579,troncare+V
 13580,pisciare+V
 13581,contrastare+V
@@ -13636,9 +13636,9 @@ Id,Category
 13635,crogiuolare+V
 13636,separare+V
 13637,disidratare+V
-13638,raccattapallre+V
+13638,raccattapalre+V
 13639,contrarre+V
-13640,strizzatre+N
+13640,strizzatare+N
 13641,varare+V
 13642,imbecillo+N
 13643,crepuscolare+V
@@ -13797,10 +13797,10 @@ Id,Category
 13796,smascherare+V
 13797,incivilire+V
 13798,scattare+V
-13799,iniettoare+V
+13799,iniettare+V
 13800,istante+N
 13801,configgere+V
-13802,malintenzionat+A
+13802,malintenzionato+A
 13803,autodeterminare+V
 13804,riconoscere+V
 13805,preludere+V
@@ -13837,7 +13837,7 @@ Id,Category
 13836,astronautico+A
 13837,strumentalizzare+V
 13838,scempiare+V
-13839,convienio+V
+13839,convieno+V
 13840,eradicare+V
 13841,degenerare+V
 13842,cifrare+V
@@ -13937,7 +13937,7 @@ Id,Category
 13936,congedare+V
 13937,confliggere+V
 13938,assommare+V
-13939,fiaare+V
+13939,fiatare+V
 13940,straviziare+V
 13941,disserrare+V
 13942,disarcionare+V
@@ -14014,7 +14014,7 @@ Id,Category
 14013,effonde+V
 14014,molciare+V
 14015,dilungare+V
-14016,borrere+V
+14016,borr+V
 14017,attornare+V
 14018,incrementare+V
 14019,ammorbare+V
@@ -14105,7 +14105,7 @@ Id,Category
 14104,fiatare+V
 14105,democratizzare+V
 14106,denuclearizzare+V
-14107,capellut+A
+14107,capelluto+A
 14108,indiziare+V
 14109,caldeggiare+V
 14110,fraudolento+A
@@ -14159,7 +14159,7 @@ Id,Category
 14158,mordere+V
 14159,intramezzare+V
 14160,tratteggiare+V
-14161,manicheao+A
+14161,manicheo+A
 14162,micidiale+A
 14163,promuovere+V
 14164,raspare+V
@@ -14219,7 +14219,7 @@ Id,Category
 14218,accalappiare+V
 14219,devolvere+V
 14220,ronzare+V
-14221,sareere+V
+14221,sere+V
 14222,serbare+V
 14223,ristagnare+V
 14224,procurare+V
@@ -14269,7 +14269,7 @@ Id,Category
 14268,matematica+N
 14269,maggiorrande+A
 14270,sfrattare+V
-14271,evare+V
+14271,evre+V
 14272,ricalcitrare+V
 14273,sovraffaticare+V
 14274,partire+V
@@ -14300,7 +14300,7 @@ Id,Category
 14299,cambiare+V
 14300,abboccare+V
 14301,rimembrare+V
-14302,crere+V
+14302,cre+V
 14303,dimissionare+V
 14304,pannocchia+N
 14305,scimpanzè+N
@@ -14372,7 +14372,7 @@ Id,Category
 14371,scafare+V
 14372,pusillanimo+A
 14373,zufolare+V
-14374,auto-gestit+A
+14374,auto-gestito+A
 14375,fertilizzare+V
 14376,egoista+A
 14377,detergere+V
@@ -14399,7 +14399,7 @@ Id,Category
 14398,uguagliare+V
 14399,bussare+V
 14400,scardinare+A
-14401,inghiottre+V
+14401,inghiottire+V
 14402,insonorizzare+A
 14403,manganare+V
 14404,autocontrollare+V
@@ -14409,7 +14409,7 @@ Id,Category
 14408,inalberare+V
 14409,adempire+V
 14410,cubare+V
-14411,esistre+V
+14411,esire+V
 14412,gettare+V
 14413,suddividere+V
 14414,carbonifero+A
@@ -14555,10 +14555,10 @@ Id,Category
 14554,balzano+A
 14555,aggiudicare+V
 14556,santuario+N
-14557,pirenaic+A
+14557,pirenaico+A
 14558,falciare+V
 14559,versificare+V
-14560,etrusc+A
+14560,etru+A
 14561,silenzi-stampa+N
 14562,cubare+V
 14563,idratare+V
@@ -14690,7 +14690,7 @@ Id,Category
 14689,totalizzare+V
 14690,spietatezza+N
 14691,ricostruire+V
-14692,validare+V
+14692,validereare+V
 14693,sottostare+V
 14694,svalutazione+N
 14695,appoggiare+V
@@ -14716,7 +14716,7 @@ Id,Category
 14715,fiorire+V
 14716,congedare+V
 14717,altrettanto+A
-14718,gattopardesc+A
+14718,gattopardesco+A
 14719,settentrionale+A
 14720,eliminare+A
 14721,perquisire+V
@@ -14810,7 +14810,7 @@ Id,Category
 14809,ufficiare+V
 14810,massacrare+V
 14811,sanguinario+A
-14812,ipocondriacao+A
+14812,ipocondriaco+A
 14813,fiaccare+V
 14814,soprassedere+V
 14815,folleggiare+V
@@ -14822,7 +14822,7 @@ Id,Category
 14821,mosciare+A
 14822,incentivare+V
 14823,incontrare+V
-14824,varesin+A
+14824,vares+A
 14825,schifare+V
 14826,spavaldo+A
 14827,islamizzare+V
@@ -14868,7 +14868,7 @@ Id,Category
 14867,riamare+V
 14868,tramestare+V
 14869,errare+V
-14870,nomadre+A
+14870,nomadere+A
 14871,appropriare+V
 14872,abbisognare+V
 14873,ricostruire+V
@@ -14890,7 +14890,7 @@ Id,Category
 14889,contemplare+V
 14890,bluffare+V
 14891,frustrare+V
-14892,carboidrat+N
+14892,carboidrato+N
 14893,colare+V
 14894,preconoscere+V
 14895,sottostare+V
@@ -14919,7 +14919,7 @@ Id,Category
 14918,infingere+V
 14919,forare+V
 14920,depenalizzare+V
-14921,barbare+A
+14921,bare+A
 14922,postare+V
 14923,intercettare+V
 14924,dimorare+A
@@ -14964,7 +14964,7 @@ Id,Category
 14963,ostracizzare+V
 14964,ostare+V
 14965,miticizzare+V
-14966,geremiad+V
+14966,geremia+V
 14967,acquisire+V
 14968,abbattere+V
 14969,ragliare+V
@@ -14972,7 +14972,7 @@ Id,Category
 14971,sgombrare+V
 14972,raggruzzolare+V
 14973,imbronciare+V
-14974,muorire+V
+14974,muoiorire+V
 14975,incaponire+V
 14976,inaugurare+V
 14977,surrogare+V
@@ -15036,7 +15036,7 @@ Id,Category
 15035,aumento+N
 15036,incrementare+V
 15037,stanziare+V
-15038,merit+A
+15038,merito+A
 15039,traboccare+V
 15040,sbattezzare+A
 15041,sfavillare+V
@@ -15075,12 +15075,12 @@ Id,Category
 15074,snazionalizzare+V
 15075,standardizzare+V
 15076,frivolezza+N
-15077,rivolare+V
+15077,rivoltare+V
 15078,attaccare+V
 15079,cedolare+V
 15080,accozzare+V
 15081,indulgere+V
-15082,druidic+A
+15082,drui+A
 15083,interagire+V
 15084,perseguitare+V
 15085,azzoppare+V
@@ -15102,13 +15102,13 @@ Id,Category
 15101,salariare+V
 15102,assortimento+N
 15103,livorare+N
-15104,scorpacciatre+N
+15104,scorpacciatare+N
 15105,girovagare+V
 15106,scambiare+V
 15107,deificare+V
 15108,impiagare+V
 15109,informatore+A
-15110,russre+V
+15110,rure+V
 15111,stancare+V
 15112,psicologa+N
 15113,formalizzare+V
@@ -15195,7 +15195,7 @@ Id,Category
 15194,intenso+A
 15195,parcheggiare+V
 15196,tecnico-amministrativo+A
-15197,compungere+V
+15197,compungaere+V
 15198,instaurare+V
 15199,latrare+N
 15200,giustificare+V
@@ -15440,13 +15440,13 @@ Id,Category
 15439,irizzare+V
 15440,abortire+V
 15441,pizzicottare+V
-15442,risciogliare+V
+15442,riscioglire+V
 15443,imballare+A
 15444,tripolare+V
 15445,incretinire+V
 15446,esecutrice+A
 15447,panneggiare+V
-15448,strombettoare+V
+15448,strombettare+V
 15449,olmo+N
 15450,strappare+V
 15451,indulgere+V
@@ -15556,7 +15556,7 @@ Id,Category
 15555,sfregiare+V
 15556,congiungere+V
 15557,ammorbare+V
-15558,inghirlandare+V
+15558,inghirlandereare+V
 15559,vestibolare+V
 15560,disidratare+V
 15561,erosione+N
@@ -15636,7 +15636,7 @@ Id,Category
 15635,litografare+V
 15636,accarezzare+V
 15637,precettare+V
-15638,conquidre+V
+15638,conquire+V
 15639,autocorreggere+V
 15640,divorare+V
 15641,sposare+V
@@ -15647,7 +15647,7 @@ Id,Category
 15646,esteriorizzare+V
 15647,dedurre+V
 15648,avvire+V
-15649,concretao+A
+15649,concreto+A
 15650,riaffacciare+V
 15651,trionfare+V
 15652,offrire+A
@@ -15662,7 +15662,7 @@ Id,Category
 15661,mutare+V
 15662,assegnare+V
 15663,riversare+V
-15664,ottimao+A
+15664,ottimo+A
 15665,castrato+A
 15666,esaminare+A
 15667,esteriorizzare+V
@@ -15726,7 +15726,7 @@ Id,Category
 15725,sconficcare+V
 15726,quantitativo+A
 15727,sazio+V
-15728,fruttre+V
+15728,fruttare+V
 15729,inchiodare+V
 15730,rinvilire+A
 15731,infradicio+V
@@ -15860,7 +15860,7 @@ Id,Category
 15859,profondare+V
 15860,infilzare+V
 15861,argomentare+V
-15862,porc+A
+15862,p+A
 15863,stagionare+V
 15864,canterellare+V
 15865,luccicare+V
@@ -15923,7 +15923,7 @@ Id,Category
 15922,desistere+A
 15923,spruzzare+A
 15924,paventare+V
-15925,invalidao+A
+15925,invalido+A
 15926,soprannominare+V
 15927,talentare+V
 15928,zuppo+A
@@ -15981,7 +15981,7 @@ Id,Category
 15980,millimetrato+A
 15981,saettare+V
 15982,prelibato+A
-15983,sottanao+A
+15983,sottano+A
 15984,francofono+A
 15985,sanguinario+A
 15986,disinnestare+V
@@ -16189,7 +16189,7 @@ Id,Category
 16188,crosciare+V
 16189,radunare+V
 16190,depositare+V
-16191,bicefalao+A
+16191,bicefalo+A
 16192,autotassare+V
 16193,trasformare+V
 16194,sventagliare+V
@@ -16226,7 +16226,7 @@ Id,Category
 16225,listare+V
 16226,molestatore+N
 16227,pronunziare+V
-16228,totocalci+N
+16228,totocalcio+N
 16229,squadrare+V
 16230,orefice+N
 16231,contrarre+V
@@ -16371,7 +16371,7 @@ Id,Category
 16370,languire+V
 16371,ritardatario+A
 16372,dimissionario+N
-16373,discolpiare+V
+16373,discolpare+V
 16374,risuolare+V
 16375,grippare+V
 16376,tarlare+V
@@ -16408,7 +16408,7 @@ Id,Category
 16407,snellire+V
 16408,risultare+V
 16409,vergognare+V
-16410,delirae+A
+16410,delire+A
 16411,mancare+V
 16412,divagare+V
 16413,enumerare+V
@@ -16416,7 +16416,7 @@ Id,Category
 16415,inviperire+V
 16416,avvisare+V
 16417,astutao+N
-16418,calmier+N
+16418,calmiere+N
 16419,completare+V
 16420,svenire+V
 16421,tossicchiare+V
@@ -16566,7 +16566,7 @@ Id,Category
 16565,commerciare+V
 16566,incentivare+V
 16567,nauseo+V
-16568,glissre+V
+16568,glissare+V
 16569,convertitore+N
 16570,socievole+A
 16571,disinfiaare+V
@@ -16582,7 +16582,7 @@ Id,Category
 16581,disinfestare+V
 16582,stagnare+V
 16583,arcuare+V
-16584,riluttre+V
+16584,rilure+V
 16585,ascendere+A
 16586,animistico+A
 16587,difendere+V
@@ -16616,7 +16616,7 @@ Id,Category
 16615,approdare+V
 16616,tendenziale+A
 16617,sventura+A
-16618,ascondere+V
+16618,ascondaere+V
 16619,appurare+V
 16620,mammifero+A
 16621,anticostituzionale+A
@@ -16751,7 +16751,7 @@ Id,Category
 16750,anestetizzare+V
 16751,tassare+V
 16752,rifugiare+V
-16753,collettare+N
+16753,collare+N
 16754,libro+N
 16755,infoltire+V
 16756,mercerizzare+V
@@ -16789,7 +16789,7 @@ Id,Category
 16788,prefabbricare+A
 16789,saluto+N
 16790,consenziente+N
-16791,perseguiare+V
+16791,perseguitare+V
 16792,accomandare+V
 16793,spodestare+V
 16794,pensare+V
@@ -16856,7 +16856,7 @@ Id,Category
 16855,impiallacciare+V
 16856,autoanalizzare+V
 16857,fruttare+V
-16858,ristudre+V
+16858,ristudire+V
 16859,esteriorizzare+V
 16860,rintoccare+V
 16861,marchiare+V
@@ -16897,7 +16897,7 @@ Id,Category
 16896,arabescre+V
 16897,cimentare+V
 16898,inquisire+A
-16899,anabolizzant+N
+16899,anabolizza+N
 16900,biasciare+V
 16901,sbrodolare+V
 16902,aeroplano+N
@@ -16940,7 +16940,7 @@ Id,Category
 16939,grippare+V
 16940,risultare+V
 16941,storiografico+A
-16942,suburbio+N
+16942,suburbo+N
 16943,inedito+A
 16944,morire+V
 16945,compattare+V
@@ -17042,7 +17042,7 @@ Id,Category
 17041,offrire+V
 17042,cagnone+N
 17043,comunistizzare+V
-17044,contestao+A
+17044,contesto+A
 17045,puttanare+V
 17046,svantaggiare+V
 17047,svezzare+V
@@ -17067,7 +17067,7 @@ Id,Category
 17066,desecretare+V
 17067,matura+N
 17068,sdoppiare+V
-17069,partie+N
+17069,part+N
 17070,invasare+V
 17071,affascinare+V
 17072,trasportare+V
@@ -17287,7 +17287,7 @@ Id,Category
 17286,tramestare+V
 17287,tatuare+V
 17288,scagionare+V
-17289,impiastroare+V
+17289,impiastrare+V
 17290,raccoglimento+N
 17291,osé+N
 17292,congenare+V
@@ -17346,7 +17346,7 @@ Id,Category
 17345,armeggiare+V
 17346,sbrodolare+V
 17347,stornellare+V
-17348,cellul+N
+17348,cellule+N
 17349,copiare+V
 17350,riavvolgere+V
 17351,scorrazzare+V
@@ -17430,7 +17430,7 @@ Id,Category
 17429,goliardia+N
 17430,sbucare+V
 17431,europeizzare+V
-17432,candid+A
+17432,can+A
 17433,fagocitare+V
 17434,derapare+V
 17435,acclimatare+V
@@ -17458,7 +17458,7 @@ Id,Category
 17457,lavoricchiare+V
 17458,muscolare+V
 17459,confinare+V
-17460,planatre+N
+17460,planatare+N
 17461,delegittimare+V
 17462,stellare+V
 17463,dirupare+V
@@ -17504,25 +17504,25 @@ Id,Category
 17503,assurgere+V
 17504,pigrare+A
 17505,ingrassare+V
-17506,umbrao+A
+17506,umbro+A
 17507,inalberare+V
 17508,ravvicinare+V
 17509,marmorizzare+V
 17510,ripungere+V
 17511,mangiucchiare+V
 17512,ciclostilare+N
-17513,semidesert+A
+17513,semideserto+A
 17514,vidimare+V
 17515,affascinare+V
 17516,panneggiare+V
 17517,disinfestare+V
 17518,biasciare+V
 17519,leggiucchiare+V
-17520,sareere+V
+17520,sarestere+V
 17521,insalivare+V
 17522,inscatolare+V
 17523,nazionalizzare+V
-17524,estingure+V
+17524,estinre+V
 17525,autolavare+V
 17526,compire+V
 17527,pregiare+V
@@ -17571,7 +17571,7 @@ Id,Category
 17570,demonizzare+V
 17571,malcontento+A
 17572,difettare+V
-17573,ricomparire+N
+17573,ricomparsire+N
 17574,crosciare+V
 17575,defluire+V
 17576,cercare+V
@@ -17612,7 +17612,7 @@ Id,Category
 17611,attizzare+V
 17612,assurgere+V
 17613,inurbare+V
-17614,umidicciao+A
+17614,umidiccio+A
 17615,frequentare+V
 17616,gratificare+V
 17617,scantonare+V
@@ -17669,7 +17669,7 @@ Id,Category
 17668,zangheriano+A
 17669,esilarare+A
 17670,potere+V
-17671,care+V
+17671,are+V
 17672,mitizzare+V
 17673,corbellare+V
 17674,campionare+V
@@ -17799,7 +17799,7 @@ Id,Category
 17798,perdonare+V
 17799,adolescenza+N
 17800,autolavare+V
-17801,imbarbarimentre+N
+17801,imbarbarimentire+N
 17802,strusciare+V
 17803,rinforzare+V
 17804,lanciamissile+N
@@ -17847,7 +17847,7 @@ Id,Category
 17846,rifiorire+V
 17847,meticoloso+A
 17848,accostumare+V
-17849,contrastao+A
+17849,contrasto+A
 17850,sommuovere+V
 17851,illustrare+V
 17852,pubblicità+N
@@ -17875,7 +17875,7 @@ Id,Category
 17874,paesaggio+N
 17875,sconquassare+V
 17876,dosare+V
-17877,spavaldao+A
+17877,spavaldo+A
 17878,rimisurare+V
 17879,ristudiare+V
 17880,vomaere+V
@@ -18010,7 +18010,7 @@ Id,Category
 18009,intrigare+V
 18010,circasso+A
 18011,palesare+V
-18012,controbattre+V
+18012,controbare+V
 18013,splenetico+A
 18014,screziare+A
 18015,depistare+V
@@ -18059,7 +18059,7 @@ Id,Category
 18058,protestare+V
 18059,potare+V
 18060,ustasciare+V
-18061,scoppolea+N
+18061,scoppola+N
 18062,confliggere+V
 18063,percolare+V
 18064,intaccare+V
@@ -18068,7 +18068,7 @@ Id,Category
 18067,parcare+V
 18068,biscottare+V
 18069,pasteggiare+V
-18070,affaccendare+V
+18070,affaccendereare+V
 18071,zingarella+N
 18072,chiarificare+V
 18073,sussultare+V
@@ -18210,7 +18210,7 @@ Id,Category
 18209,scaracchiare+V
 18210,grattare+V
 18211,scudisciare+V
-18212,servre+V
+18212,servire+V
 18213,appaltabile+A
 18214,disossare+V
 18215,tramutare+V
@@ -18259,7 +18259,7 @@ Id,Category
 18258,impiagare+V
 18259,incendiario+N
 18260,sviluppare+V
-18261,mollettea+N
+18261,molletta+N
 18262,esplorare+V
 18263,deferire+V
 18264,caricato+V
@@ -18307,7 +18307,7 @@ Id,Category
 18306,commissariare+V
 18307,premettere+V
 18308,configgere+V
-18309,sconcertre+V
+18309,sconcerre+V
 18310,contattare+V
 18311,carnivoro+A
 18312,riammogliare+V
@@ -18332,7 +18332,7 @@ Id,Category
 18331,obliare+V
 18332,confidare+V
 18333,circumnavigare+V
-18334,miglior+V
+18334,miglio+V
 18335,standardizzare+V
 18336,sragionare+V
 18337,tostare+V
@@ -18516,7 +18516,7 @@ Id,Category
 18515,smungere+V
 18516,strisciare+V
 18517,soggiornare+V
-18518,colonnao+N
+18518,colonnato+N
 18519,indisponrre+V
 18520,associare+V
 18521,affarucciare+N
@@ -18644,7 +18644,7 @@ Id,Category
 18643,esonerare+V
 18644,copiare+V
 18645,vivacchiare+V
-18646,indolre+N
+18646,indolere+N
 18647,oltrepassare+V
 18648,proteare+V
 18649,contagiare+V
@@ -18654,14 +18654,14 @@ Id,Category
 18653,faulkneriano+A
 18654,statura+N
 18655,camminare+V
-18656,isotopao+A
+18656,isotopo+A
 18657,morsicare+V
 18658,percentualizzare+V
 18659,saldatore+N
 18660,lerciare+V
 18661,ricociare+V
 18662,omono+N
-18663,leare+V
+18663,levare+V
 18664,parlare+V
 18665,spaginare+V
 18666,pescare+V
@@ -18676,7 +18676,7 @@ Id,Category
 18675,avvalere+V
 18676,incrudire+V
 18677,affermare+V
-18678,scovare+V
+18678,scovereare+V
 18679,porno+A
 18680,ammorbare+V
 18681,calamitare+V
@@ -18759,7 +18759,7 @@ Id,Category
 18758,prezzolare+V
 18759,escrescenza+N
 18760,scantinare+V
-18761,primeo+A
+18761,primo+A
 18762,camminare+V
 18763,fabbricatore+N
 18764,giostrare+V
@@ -18769,7 +18769,7 @@ Id,Category
 18768,propalare+V
 18769,diliscare+V
 18770,gratificare+V
-18771,garbatre+N
+18771,garbatare+N
 18772,militante+A
 18773,riconsiderare+V
 18774,accentare+V
@@ -18787,7 +18787,7 @@ Id,Category
 18786,saziare+V
 18787,scalinare+N
 18788,spaiare+A
-18789,esterrefattao+A
+18789,esterrefatto+A
 18790,compassare+V
 18791,disinnestare+V
 18792,ribattere+V
@@ -18885,7 +18885,7 @@ Id,Category
 18884,entrare+V
 18885,gelificare+V
 18886,convenire+V
-18887,immanent+A
+18887,imman+A
 18888,falcare+V
 18889,affascinare+V
 18890,sdottoreggiare+V
@@ -18957,7 +18957,7 @@ Id,Category
 18956,bulinare+V
 18957,percentualizzare+V
 18958,simulare+V
-18959,capirepart+N
+18959,capireparto+N
 18960,propiziare+V
 18961,marginare+V
 18962,decadere+V
@@ -19010,7 +19010,7 @@ Id,Category
 19009,imbarcare+V
 19010,attizzare+V
 19011,reinnestare+V
-19012,riassuntiv+A
+19012,riassun+A
 19013,troncare+V
 19014,tamponare+N
 19015,ritornare+N
@@ -19113,7 +19113,7 @@ Id,Category
 19112,dimenticare+V
 19113,forbitare+A
 19114,allertare+V
-19115,ammonitao+A
+19115,ammonito+A
 19116,risonanza+N
 19117,spartire+V
 19118,riadeguare+V
@@ -19228,7 +19228,7 @@ Id,Category
 19227,sfrenare+V
 19228,relazionare+V
 19229,vagliare+A
-19230,tarre+V
+19230,tarare+V
 19231,depurare+V
 19232,espirare+V
 19233,addolcire+V
@@ -19237,7 +19237,7 @@ Id,Category
 19236,abortire+A
 19237,vedere+A
 19238,acquerello+N
-19239,rimanre+V
+19239,rimare+V
 19240,contrapporre+V
 19241,polire+V
 19242,affrontare+V
@@ -19274,7 +19274,7 @@ Id,Category
 19273,gallerista+N
 19274,turlupinare+V
 19275,godere+V
-19276,ammollre+V
+19276,ammollire+V
 19277,disseminare+V
 19278,intervenire+V
 19279,intontire+V
@@ -19295,7 +19295,7 @@ Id,Category
 19294,perdere+V
 19295,assurgere+V
 19296,differenziare+V
-19297,rispondere+V
+19297,rispond+V
 19298,calettare+V
 19299,accingere+V
 19300,saltare+V
@@ -19362,7 +19362,7 @@ Id,Category
 19361,empionere+V
 19362,scosciare+V
 19363,estirpare+V
-19364,impattre+V
+19364,impatre+V
 19365,lustrare+V
 19366,pavento+N
 19367,deflettere+V
@@ -19387,8 +19387,8 @@ Id,Category
 19386,pregiare+V
 19387,modalità+N
 19388,riattizzare+V
-19389,paracadutare+V
-19390,fuggre+V
+19389,paracadutre+V
+19390,fuggire+V
 19391,celare+V
 19392,prescindere+V
 19393,geo-economico+A
@@ -19484,7 +19484,7 @@ Id,Category
 19483,ridurre+V
 19484,intaccare+V
 19485,insegnare+V
-19486,impermaleire+V
+19486,impermalire+V
 19487,arcaizzare+V
 19488,amnistiare+V
 19489,invertire+V
@@ -19556,7 +19556,7 @@ Id,Category
 19555,percuotere+V
 19556,imputare+V
 19557,svaligiare+V
-19558,ammaino+V
+19558,ammai+V
 19559,lustrare+V
 19560,wojtyliano+A
 19561,riconfrontare+V
@@ -19614,7 +19614,7 @@ Id,Category
 19613,migliora+V
 19614,involgere+V
 19615,sgelare+V
-19616,bendispostao+A
+19616,bendisposto+A
 19617,delinquaere+V
 19618,falsare+V
 19619,adeguare+V
@@ -19692,7 +19692,7 @@ Id,Category
 19691,espropriare+V
 19692,vulcanizzare+V
 19693,riscontrare+V
-19694,senatorial+A
+19694,senatoriale+A
 19695,smascellare+V
 19696,muggire+V
 19697,svergognare+V
@@ -19736,7 +19736,7 @@ Id,Category
 19735,gradualizzare+V
 19736,delegare+V
 19737,tribolare+V
-19738,rem+V
+19738,re+V
 19739,rimarcare+V
 19740,deviare+V
 19741,attuare+V
@@ -19749,7 +19749,7 @@ Id,Category
 19748,prodigare+V
 19749,cinghiare+V
 19750,tastare+V
-19751,bitorzolut+A
+19751,bitorzoluto+A
 19752,abbattere+V
 19753,riconfrontare+V
 19754,reciprocare+A
@@ -19927,7 +19927,7 @@ Id,Category
 19926,rappattumare+V
 19927,riassalire+V
 19928,shockare+V
-19929,stridre+V
+19929,strre+V
 19930,ricollegare+V
 19931,pisolare+V
 19932,ufficializzare+V
@@ -19972,7 +19972,7 @@ Id,Category
 19971,catechizzare+V
 19972,talentare+V
 19973,inghiare+V
-19974,definitao+A
+19974,definito+A
 19975,manifatturare+V
 19976,brancicare+V
 19977,mordere+V
@@ -20132,7 +20132,7 @@ Id,Category
 20131,potentare+V
 20132,dialogare+V
 20133,rateare+V
-20134,approdare+V
+20134,approdereare+V
 20135,restaurare+V
 20136,approdare+V
 20137,nevoso+A
@@ -20209,7 +20209,7 @@ Id,Category
 20208,rilassatezza+N
 20209,scamosciare+V
 20210,reclamare+V
-20211,sgonnelloare+V
+20211,sgonnellare+V
 20212,teorizzare+V
 20213,sconquassare+V
 20214,autodirigere+V
@@ -20347,7 +20347,7 @@ Id,Category
 20346,compulsare+V
 20347,rappattumare+V
 20348,disgustare+V
-20349,bastonatre+N
+20349,bastonatare+N
 20350,notificare+V
 20351,miliare+V
 20352,soprannominare+V
@@ -20495,7 +20495,7 @@ Id,Category
 20494,ipotecare+V
 20495,ubicare+V
 20496,cassintegrare+N
-20497,processre+V
+20497,procere+V
 20498,figurare+V
 20499,bitumare+V
 20500,oziare+V
@@ -20531,7 +20531,7 @@ Id,Category
 20530,reciprocare+V
 20531,esagitare+V
 20532,approfondire+A
-20533,rimontre+V
+20533,rimonre+V
 20534,imputare+V
 20535,vitaminico+A
 20536,intorbidare+V
@@ -20542,7 +20542,7 @@ Id,Category
 20541,sicurezza+N
 20542,effeminare+V
 20543,rattrappaire+V
-20544,scherment+N
+20544,schermente+N
 20545,comunistizzare+V
 20546,protendere+V
 20547,incenerire+V
@@ -20689,7 +20689,7 @@ Id,Category
 20688,prescrivere+V
 20689,equilibrare+V
 20690,decentralizzare+V
-20691,immedesimre+V
+20691,immedesimare+V
 20692,infiammare+V
 20693,capitale+A
 20694,monoteistico+A
@@ -20711,7 +20711,7 @@ Id,Category
 20710,inverdire+V
 20711,riacuire+V
 20712,rivolere+V
-20713,scomodeo+N
+20713,scomodo+N
 20714,scorrazzare+V
 20715,proseguire+V
 20716,criptare+V
@@ -20756,7 +20756,7 @@ Id,Category
 20755,condiscendere+V
 20756,principiare+V
 20757,malignare+V
-20758,sfotte+V
+20758,sfottere+V
 20759,gongolare+V
 20760,allineare+V
 20761,sovrapporre+V
@@ -20777,7 +20777,7 @@ Id,Category
 20776,delibare+V
 20777,adoprare+V
 20778,beccheggiare+V
-20779,copricire+V
+20779,copriire+V
 20780,difettare+V
 20781,erre+V
 20782,soffriggere+V
@@ -20916,7 +20916,7 @@ Id,Category
 20915,scapricciare+V
 20916,assurgere+V
 20917,escutere+V
-20918,carre+V
+20918,carire+V
 20919,umanizzare+V
 20920,impataccare+V
 20921,indugiare+V
@@ -20996,7 +20996,7 @@ Id,Category
 20995,esterificare+V
 20996,obiettare+V
 20997,svellere+V
-20998,ripiovre+V
+20998,ripire+V
 20999,ibernare+V
 21000,cercare+V
 21001,domiciliare+A
@@ -21175,7 +21175,7 @@ Id,Category
 21174,superare+V
 21175,mormorare+V
 21176,medicamentoso+A
-21177,disperdere+V
+21177,disperdaere+V
 21178,dolorare+V
 21179,accentare+V
 21180,preponderare+V
@@ -21252,7 +21252,7 @@ Id,Category
 21251,imbiancare+V
 21252,abolire+V
 21253,cancellare+V
-21254,allegrre+A
+21254,allegrare+A
 21255,neo+N
 21256,sbrancare+V
 21257,pipiare+V
@@ -21269,7 +21269,7 @@ Id,Category
 21268,sviare+V
 21269,circonfondere+V
 21270,co-produrre+V
-21271,controcarr+A
+21271,controcarro+A
 21272,esercire+V
 21273,esponenziale+A
 21274,rinazionalizzare+V
@@ -21518,7 +21518,7 @@ Id,Category
 21517,derubare+V
 21518,cedere+V
 21519,impensierire+V
-21520,autosostenre+V
+21520,autosostenere+V
 21521,attorciere+V
 21522,benefattore+A
 21523,esplorare+V
@@ -21569,7 +21569,7 @@ Id,Category
 21568,disagiare+V
 21569,contrastare+V
 21570,decorare+V
-21571,autoproducrre+V
+21571,autoprodurre+V
 21572,prudenza+N
 21573,ponteggiare+N
 21574,immergere+V
@@ -21645,8 +21645,8 @@ Id,Category
 21644,sregolare+V
 21645,tacciare+A
 21646,pizzicottare+V
-21647,ridire+V
-21648,infangre+V
+21647,ridre+V
+21648,infanre+V
 21649,sillogizzare+V
 21650,sceneggiare+V
 21651,associare+V
@@ -21714,7 +21714,7 @@ Id,Category
 21713,rintontire+V
 21714,squinternare+V
 21715,iniettare+V
-21716,squisitao+A
+21716,squisito+A
 21717,impuzzolento+V
 21718,dogmatizzare+V
 21719,estivare+A
@@ -21742,7 +21742,7 @@ Id,Category
 21741,epistolare+V
 21742,sbracare+V
 21743,ballare+A
-21744,svoltre+V
+21744,svolre+V
 21745,lucrare+V
 21746,orinare+V
 21747,mugghiare+V
@@ -21788,7 +21788,7 @@ Id,Category
 21787,cullare+V
 21788,adoprare+V
 21789,circonfondere+V
-21790,poligraficio+N
+21790,poligrafico+N
 21791,mangiucchiare+V
 21792,melodico+A
 21793,fiorire+V
@@ -21813,7 +21813,7 @@ Id,Category
 21812,rissare+V
 21813,interstellare+V
 21814,carenato+A
-21815,tergiversre+V
+21815,tergiverre+V
 21816,chemioterapico+N
 21817,scarrucolare+V
 21818,scardinare+V
@@ -21896,7 +21896,7 @@ Id,Category
 21895,prefabbricare+V
 21896,illanguidire+V
 21897,incollerire+V
-21898,irsut+A
+21898,irsuto+A
 21899,dissestare+V
 21900,zampillare+V
 21901,dorare+V
@@ -22003,7 +22003,7 @@ Id,Category
 22002,doso+V
 22003,annoverare+V
 22004,sfociare+V
-22005,esigaere+V
+22005,esigere+V
 22006,usura+N
 22007,ubriacare+V
 22008,strumentazione+N
@@ -22093,7 +22093,7 @@ Id,Category
 22092,rinnovellare+V
 22093,enumerare+V
 22094,piovigginare+V
-22095,scommessttere+N
+22095,scommessattere+N
 22096,lisciviare+V
 22097,procedere+V
 22098,attivare+V
@@ -22158,13 +22158,13 @@ Id,Category
 22157,amalgamare+A
 22158,inviperire+V
 22159,direzione+N
-22160,marmore+A
+22160,marmoreo+A
 22161,frustrare+V
 22162,caporedattore+N
 22163,spendere+V
 22164,attuare+V
 22165,trapiantare+V
-22166,riverre+V
+22166,riverire+V
 22167,inibitorio+A
 22168,encomiare+V
 22169,sdoppiamento+N
@@ -22180,7 +22180,7 @@ Id,Category
 22179,ripetere+V
 22180,crocifiggere+V
 22181,informare+V
-22182,riesplodaere+V
+22182,riesplodere+V
 22183,bramare+A
 22184,collimare+V
 22185,discaricare+V
@@ -22274,7 +22274,7 @@ Id,Category
 22273,vuotare+V
 22274,imbrigliare+V
 22275,intrappolare+V
-22276,piric+A
+22276,pirico+A
 22277,ghibellino+A
 22278,rimanere+V
 22279,impagliare+V
@@ -22285,7 +22285,7 @@ Id,Category
 22284,rincivilire+V
 22285,disdegnare+V
 22286,piccoletto+N
-22287,ritirao+A
+22287,ritirato+A
 22288,portinaia+N
 22289,inorgoglire+V
 22290,svergognare+V
@@ -22299,7 +22299,7 @@ Id,Category
 22298,ondulato+A
 22299,impuntare+V
 22300,comportare+V
-22301,ingentilre+V
+22301,ingentilire+V
 22302,piallare+V
 22303,enumerare+V
 22304,carreggiare+V
@@ -22578,7 +22578,7 @@ Id,Category
 22577,inquietare+V
 22578,mangiucchiare+V
 22579,autorizzare+V
-22580,insanre+V
+22580,insanire+V
 22581,singhiozzare+V
 22582,impagliare+V
 22583,diseducare+V
@@ -22615,7 +22615,7 @@ Id,Category
 22614,scaffalatura+N
 22615,sopraelencare+V
 22616,strapagare+V
-22617,frinre+V
+22617,frinire+V
 22618,bestemmiatore+N
 22619,confrontare+V
 22620,destreggiare+V
@@ -22676,7 +22676,7 @@ Id,Category
 22675,iridare+V
 22676,dilaniare+V
 22677,commentare+V
-22678,unisonao+A
+22678,unisono+A
 22679,deprimere+A
 22680,strappare+V
 22681,camerino+N
@@ -22753,7 +22753,7 @@ Id,Category
 22752,corrompere+V
 22753,avverbo+N
 22754,suddividere+V
-22755,scipitao+A
+22755,scipito+A
 22756,esagitare+V
 22757,osteggiare+V
 22758,ripudiare+V
@@ -22914,7 +22914,7 @@ Id,Category
 22913,rottamare+V
 22914,italoamericano+A
 22915,ripetitore+N
-22916,biancire+N
+22916,ire+N
 22917,cranio+N
 22918,metallurgico+A
 22919,cornacchiare+N
@@ -22980,7 +22980,7 @@ Id,Category
 22979,pervertire+V
 22980,ricomperare+V
 22981,distornare+V
-22982,controsterzoare+V
+22982,controsterzare+V
 22983,bucare+V
 22984,corredare+V
 22985,ridonare+V
@@ -22989,7 +22989,7 @@ Id,Category
 22988,proccupazione+N
 22989,congenere+V
 22990,prevedere+V
-22991,feniciao+N
+22991,fenicio+N
 22992,orinare+V
 22993,torchiare+V
 22994,antisemitismo+N
@@ -23017,7 +23017,7 @@ Id,Category
 23016,telefonare+V
 23017,aggiungere+V
 23018,sobbarcare+V
-23019,decadreere+V
+23019,decaere+V
 23020,rassettare+V
 23021,lesionare+V
 23022,sminare+V
@@ -23029,7 +23029,7 @@ Id,Category
 23028,nettare+V
 23029,crocifiggere+V
 23030,sviare+A
-23031,rea+V
+23031,retta+V
 23032,schiumare+V
 23033,rilere+V
 23034,autoprodurre+V
@@ -23077,7 +23077,7 @@ Id,Category
 23076,paramedico+A
 23077,deditare+A
 23078,dolorare+A
-23079,incompresao+A
+23079,incompreso+A
 23080,straripare+V
 23081,espandere+V
 23082,contagiare+V
@@ -23102,7 +23102,7 @@ Id,Category
 23101,reagire+V
 23102,sguinzagliare+V
 23103,coreografare+V
-23104,baglior+N
+23104,bagliori+N
 23105,telelavorare+V
 23106,girellare+V
 23107,zangheriano+A
@@ -23215,7 +23215,7 @@ Id,Category
 23214,poggiare+V
 23215,destrutturare+A
 23216,ferire+V
-23217,sobbollre+V
+23217,sobbollire+V
 23218,atteggiare+A
 23219,indulgere+V
 23220,ardire+V
@@ -23350,7 +23350,7 @@ Id,Category
 23349,stereotipizzare+V
 23350,sbarrare+V
 23351,ereditare+V
-23352,stracottao+A
+23352,stracotto+A
 23353,ginevrino+A
 23354,connettere+V
 23355,devolvere+V
@@ -23451,7 +23451,7 @@ Id,Category
 23450,richiamare+V
 23451,abitacolo+N
 23452,forare+V
-23453,molciere+V
+23453,molcere+V
 23454,abbigliare+V
 23455,sbramare+V
 23456,instabilità+N
@@ -23490,7 +23490,7 @@ Id,Category
 23489,imbrillantinare+V
 23490,ripetere+V
 23491,svilire+V
-23492,sincron+A
+23492,sincr+A
 23493,armeggiare+V
 23494,versificare+V
 23495,configurare+V
@@ -23624,7 +23624,7 @@ Id,Category
 23623,riscontare+V
 23624,modificazione+N
 23625,gettonare+V
-23626,umidicci+A
+23626,umidi+A
 23627,riamare+V
 23628,sregolare+V
 23629,sfottere+V
@@ -23724,7 +23724,7 @@ Id,Category
 23723,abbozzare+V
 23724,trivellare+V
 23725,impellicciare+V
-23726,univocao+A
+23726,univoco+A
 23727,comprare+V
 23728,sbattezzare+V
 23729,rubricare+V
@@ -23757,7 +23757,7 @@ Id,Category
 23756,scorgere+V
 23757,rivendere+V
 23758,ritagliare+V
-23759,prescrivre+V
+23759,prescrre+V
 23760,scappellare+V
 23761,scardinare+V
 23762,infradiciare+V
@@ -23950,7 +23950,7 @@ Id,Category
 23949,pregiare+V
 23950,sgraffignare+V
 23951,mareggiate+N
-23952,stanre+V
+23952,stanare+V
 23953,cilena+A
 23954,ritentare+V
 23955,straziare+V
@@ -23994,7 +23994,7 @@ Id,Category
 23993,ingaggiare+V
 23994,sbranare+V
 23995,corrivare+V
-23996,aerobicao+A
+23996,aerobico+A
 23997,azzannare+V
 23998,dilatare+V
 23999,svantaggiare+V
@@ -24087,7 +24087,7 @@ Id,Category
 24086,affrescare+V
 24087,preordinare+V
 24088,commisurare+V
-24089,bimanao+A
+24089,bimano+A
 24090,competere+V
 24091,sillogizzare+V
 24092,fervare+V
@@ -24259,7 +24259,7 @@ Id,Category
 24258,dileguare+V
 24259,inamidare+V
 24260,rammentare+V
-24261,boicottre+V
+24261,boicotre+V
 24262,rimodellare+V
 24263,affrontare+A
 24264,intestare+V
@@ -24297,7 +24297,7 @@ Id,Category
 24296,panneggiare+V
 24297,argomentare+V
 24298,vaticinare+V
-24299,sfegaare+V
+24299,sfegatare+V
 24300,barrare+V
 24301,salinare+V
 24302,corbelleria+N
@@ -24333,7 +24333,7 @@ Id,Category
 24332,gracidare+V
 24333,match+N
 24334,erodere+V
-24335,italo-frances+A
+24335,italo-francese+A
 24336,astemia+A
 24337,modulare+V
 24338,esporre+V
@@ -24460,7 +24460,7 @@ Id,Category
 24459,trattenere+V
 24460,assommare+V
 24461,avvitare+V
-24462,techn+A
+24462,techno+A
 24463,svantaggiare+V
 24464,contrappunto+N
 24465,miliare+V
@@ -24470,7 +24470,7 @@ Id,Category
 24469,ammantare+V
 24470,gocciare+V
 24471,ghignare+V
-24472,performanc+N
+24472,performance+N
 24473,sovrapporre+V
 24474,gioire+V
 24475,imparare+A
@@ -24621,7 +24621,7 @@ Id,Category
 24620,rimanere+A
 24621,nascondere+V
 24622,avvicendare+V
-24623,vellutat+A
+24623,vellutato+A
 24624,cincischiare+A
 24625,derubricare+V
 24626,facilitare+V
@@ -24736,7 +24736,7 @@ Id,Category
 24735,protendere+V
 24736,prenascere+V
 24737,abbottonare+V
-24738,prìncipiare+N
+24738,iare+N
 24739,sfuriare+A
 24740,disistimare+V
 24741,mandare+V
@@ -24817,9 +24817,9 @@ Id,Category
 24816,riattizzare+V
 24817,travalicare+V
 24818,disgustare+V
-24819,stirpre+N
+24819,stirpere+N
 24820,bersagliare+V
-24821,evolure+V
+24821,evore+V
 24822,drogare+V
 24823,scervellare+V
 24824,pesare+V
@@ -24953,7 +24953,7 @@ Id,Category
 24952,fuggire+V
 24953,interagire+V
 24954,rivitalizzare+A
-24955,sfrangre+V
+24955,sfrangiare+V
 24956,sbocciare+V
 24957,abboccare+V
 24958,canuto+A
@@ -25020,7 +25020,7 @@ Id,Category
 25019,autosostenare+V
 25020,azzittire+V
 25021,sonare+V
-25022,arboricolao+A
+25022,arboricolo+A
 25023,balenare+V
 25024,crocidere+V
 25025,imbattere+V
@@ -25096,7 +25096,7 @@ Id,Category
 25095,pipiare+V
 25096,rinnovellare+V
 25097,offensivo+A
-25098,marsupio+N
+25098,marsupo+N
 25099,ossequiare+V
 25100,inconsueto+A
 25101,stagionare+V
@@ -25136,7 +25136,7 @@ Id,Category
 25135,pregiare+V
 25136,patinare+V
 25137,ripudiare+V
-25138,profugao+A
+25138,profugo+A
 25139,fustellare+V
 25140,paglia+N
 25141,incentivare+V
@@ -25201,7 +25201,7 @@ Id,Category
 25200,tostare+V
 25201,riscrivere+V
 25202,tritare+V
-25203,berlusconizzat+A
+25203,berlusconizzato+A
 25204,livellamento+N
 25205,cardare+V
 25206,rifugiare+V
@@ -25274,7 +25274,7 @@ Id,Category
 25273,questionare+V
 25274,scrosciare+V
 25275,flosce+A
-25276,diciassettennre+N
+25276,diciassettennere+N
 25277,reintegrare+V
 25278,impattare+V
 25279,frugare+V
@@ -25325,7 +25325,7 @@ Id,Category
 25324,sghignazzare+V
 25325,rotare+V
 25326,inverdire+V
-25327,parassitre+A
+25327,parassitare+A
 25328,sopraffare+V
 25329,smanettare+V
 25330,ossessionare+V
@@ -25474,7 +25474,7 @@ Id,Category
 25473,appianabile+A
 25474,depurare+V
 25475,troncare+V
-25476,patriarcao+N
+25476,patriarcato+N
 25477,reincarnare+V
 25478,speronare+V
 25479,disboscare+V
@@ -25508,7 +25508,7 @@ Id,Category
 25507,gelatinizzare+V
 25508,ammarare+V
 25509,chiacchierare+V
-25510,mucare+N
+25510,are+N
 25511,delineare+V
 25512,deviare+V
 25513,rasserenare+V
@@ -25518,7 +25518,7 @@ Id,Category
 25517,auto-protettivo+A
 25518,incontrastato+A
 25519,trascegliare+V
-25520,cingere+V
+25520,cingaere+V
 25521,trascegliare+V
 25522,spizzicare+V
 25523,obliare+A
@@ -25538,7 +25538,7 @@ Id,Category
 25537,fabbricare+V
 25538,bevicchiare+V
 25539,allettare+A
-25540,sveglire+A
+25540,svegliere+A
 25541,spiegare+V
 25542,smanettare+V
 25543,assommare+V
@@ -25643,12 +25643,12 @@ Id,Category
 25642,influenzare+V
 25643,chiacchiare+V
 25644,empire+V
-25645,cestre+V
+25645,cestire+V
 25646,cartonare+V
 25647,crocifissare+V
 25648,torneino+N
 25649,ringiovanire+V
-25650,corrispondere+V
+25650,corrispond+V
 25651,traboccare+V
 25652,referenziare+V
 25653,scapola+N
@@ -25674,7 +25674,7 @@ Id,Category
 25673,esortare+V
 25674,involtare+V
 25675,scudisciare+V
-25676,spesre+V
+25676,spesare+V
 25677,coibentare+V
 25678,euforico+A
 25679,rifluire+V
@@ -25823,7 +25823,7 @@ Id,Category
 25822,capistruttura+N
 25823,instare+V
 25824,alveare+V
-25825,congenre+V
+25825,congere+V
 25826,svaligiare+V
 25827,svoltare+V
 25828,recidivare+V
@@ -25851,7 +25851,7 @@ Id,Category
 25850,impregnare+V
 25851,impopolare+V
 25852,miticizzare+V
-25853,riuocere+V
+25853,ricouocere+V
 25854,increspare+V
 25855,compulsare+V
 25856,assegnare+V
@@ -25862,7 +25862,7 @@ Id,Category
 25861,cullare+V
 25862,lucrare+V
 25863,disattendere+V
-25864,circonvenre+V
+25864,circonvere+V
 25865,sfiorire+V
 25866,lesionare+V
 25867,impanare+V
@@ -26138,7 +26138,7 @@ Id,Category
 26137,destituire+V
 26138,diradare+V
 26139,demente+A
-26140,gravidao+A
+26140,gravido+A
 26141,paracadutare+V
 26142,bruciacchiare+V
 26143,rifiorire+V
@@ -26258,10 +26258,10 @@ Id,Category
 26257,tribolare+V
 26258,scriterare+A
 26259,risuolare+V
-26260,vice-capio+N
+26260,vice-capo+N
 26261,arrotondare+V
 26262,chioccolare+V
-26263,spiovere+V
+26263,spiovaere+V
 26264,prestare+A
 26265,contenere+V
 26266,dj+N
@@ -26358,7 +26358,7 @@ Id,Category
 26357,paziente+A
 26358,spirituale+A
 26359,commuovere+V
-26360,contropropostrre+N
+26360,contropropostarre+N
 26361,surrogare+V
 26362,compattare+V
 26363,scomodo+A
@@ -26385,7 +26385,7 @@ Id,Category
 26384,esiguere+V
 26385,fidanzare+A
 26386,frusciare+V
-26387,eteroclit+A
+26387,eteroclito+A
 26388,ripiombere+V
 26389,bianchire+V
 26390,intestare+V
@@ -26426,7 +26426,7 @@ Id,Category
 26425,dissuadere+V
 26426,arrestare+V
 26427,astrologare+V
-26428,acerb+A
+26428,acerbo+A
 26429,colare+V
 26430,reiterare+V
 26431,alzare+V
@@ -26548,7 +26548,7 @@ Id,Category
 26547,soppresse+N
 26548,rannicchiare+V
 26549,sgranchire+V
-26550,salsao+A
+26550,salso+A
 26551,politeista+A
 26552,algerina+A
 26553,parcare+V
@@ -26568,7 +26568,7 @@ Id,Category
 26567,commentare+V
 26568,industrializzare+V
 26569,lambire+V
-26570,boer+A
+26570,+A
 26571,impicciare+V
 26572,gonfiare+V
 26573,demonetizzare+V
@@ -26620,7 +26620,7 @@ Id,Category
 26619,disdegnare+V
 26620,esternalizzare+V
 26621,ricomparire+V
-26622,propellent+A
+26622,propell+A
 26623,remare+A
 26624,munire+V
 26625,bonificare+V
@@ -26718,7 +26718,7 @@ Id,Category
 26717,scomparire+V
 26718,inattivare+V
 26719,emanare+V
-26720,fobicao+A
+26720,fobico+A
 26721,stridere+V
 26722,neurobiologo+N
 26723,strombettare+V
@@ -26748,7 +26748,7 @@ Id,Category
 26747,stirare+V
 26748,risucchiare+V
 26749,barbarismo+N
-26750,incisdere+V
+26750,incidere+V
 26751,deflettere+A
 26752,prenascere+V
 26753,sfociare+V
@@ -26823,7 +26823,7 @@ Id,Category
 26822,riversare+V
 26823,mordicchiare+V
 26824,rombare+V
-26825,piovre+V
+26825,pire+V
 26826,esposti-denunrre+V
 26827,rimpastare+V
 26828,immagazzinare+V
@@ -26844,7 +26844,7 @@ Id,Category
 26843,logico+A
 26844,individuare+V
 26845,colico+N
-26846,tumefatt+A
+26846,tumefatto+A
 26847,nazionalizzare+V
 26848,frammettere+V
 26849,spropositato+A
@@ -26857,7 +26857,7 @@ Id,Category
 26856,bottoncino+N
 26857,massacrare+V
 26858,infamare+V
-26859,calcestruzzie+N
+26859,calcestruzze+N
 26860,denunciare+V
 26861,accomandare+V
 26862,basire+V
@@ -26978,7 +26978,7 @@ Id,Category
 26977,disinfettare+V
 26978,ripulitura+N
 26979,seghettare+V
-26980,retromarci+N
+26980,retromarcie+N
 26981,domiciliare+A
 26982,riadeguare+V
 26983,rinazionalizzare+V
@@ -27032,7 +27032,7 @@ Id,Category
 27031,circonvenire+V
 27032,sgocciolare+V
 27033,sgelare+V
-27034,trasdurre+V
+27034,trasdrre+V
 27035,zirlare+V
 27036,tallonare+V
 27037,cognome+N
@@ -27062,7 +27062,7 @@ Id,Category
 27061,razziare+V
 27062,anestetizzare+V
 27063,polemico+A
-27064,secondare+V
+27064,secondereare+V
 27065,suddividere+V
 27066,disorientare+V
 27067,incoronazione+N
@@ -27098,7 +27098,7 @@ Id,Category
 27097,ricondurre+V
 27098,collocare+V
 27099,squamare+V
-27100,arrotondare+V
+27100,arrotondereare+V
 27101,spaccare+V
 27102,smezzare+A
 27103,accalappare+V
@@ -27173,7 +27173,7 @@ Id,Category
 27172,analfabeta+A
 27173,vellicare+V
 27174,ammobiliare+V
-27175,radeire+A
+27175,radire+A
 27176,tonfare+V
 27177,fertilizzare+V
 27178,contraffare+V
@@ -27229,7 +27229,7 @@ Id,Category
 27228,tamponare+V
 27229,assurgere+V
 27230,confidare+V
-27231,castig+N
+27231,castigo+N
 27232,incenerire+V
 27233,trasalire+V
 27234,distendere+V
@@ -27257,7 +27257,7 @@ Id,Category
 27256,dileggiare+V
 27257,imperiare+A
 27258,allogare+V
-27259,infastiditio+N
+27259,infastidito+N
 27260,murare+V
 27261,impiumare+A
 27262,sprintare+V
@@ -27274,7 +27274,7 @@ Id,Category
 27273,virare+V
 27274,leggerezza+N
 27275,rodiare+A
-27276,insistre+V
+27276,insire+V
 27277,entrare+V
 27278,digitalizzare+V
 27279,preludere+V
@@ -27298,7 +27298,7 @@ Id,Category
 27297,risolvere+V
 27298,co-produrre+V
 27299,aggettivare+V
-27300,cromre+V
+27300,crore+V
 27301,sbatacchiare+V
 27302,ciurlare+V
 27303,cauterizzare+V
@@ -27396,7 +27396,7 @@ Id,Category
 27395,raffinare+V
 27396,eternare+V
 27397,fotografare+V
-27398,esplicitre+V
+27398,esplicire+V
 27399,gasare+V
 27400,invenduto+A
 27401,fruttare+V
@@ -27418,7 +27418,7 @@ Id,Category
 27417,germogliare+V
 27418,trasdurre+V
 27419,posizionare+V
-27420,intiepideire+V
+27420,intiepidire+V
 27421,incordare+V
 27422,epistolare+V
 27423,sconficcare+V
@@ -27462,7 +27462,7 @@ Id,Category
 27461,tappezzare+V
 27462,modernizzare+V
 27463,sbaciucchiare+V
-27464,quadrat+A
+27464,quadrato+A
 27465,appesantire+V
 27466,esplicitare+V
 27467,decurtare+V
@@ -27527,7 +27527,7 @@ Id,Category
 27526,discutere+V
 27527,immunizzare+A
 27528,disinfettare+V
-27529,neglett+A
+27529,negletto+A
 27530,ingannatore+A
 27531,dubitativo+A
 27532,vomere+V
@@ -27590,7 +27590,7 @@ Id,Category
 27589,esordiente+N
 27590,cotere+V
 27591,incaricare+V
-27592,superflu+A
+27592,superfluo+A
 27593,rasciugare+V
 27594,sbrancare+V
 27595,schifare+V
@@ -27627,7 +27627,7 @@ Id,Category
 27626,scaturire+V
 27627,fuggire+V
 27628,megliare+V
-27629,super-raccomandat+A
+27629,super-raccomandato+A
 27630,bugnare+V
 27631,tonsurare+V
 27632,schiumare+V
@@ -27688,7 +27688,7 @@ Id,Category
 27687,gelare+V
 27688,chiosare+V
 27689,sopare+V
-27690,vellut+A
+27690,vell+A
 27691,tallonare+V
 27692,sviluppare+V
 27693,co-presiedere+A
@@ -27700,7 +27700,7 @@ Id,Category
 27699,atletico+A
 27700,giacere+V
 27701,straziare+V
-27702,adibre+V
+27702,adibire+V
 27703,impiallacciare+V
 27704,indiziare+V
 27705,cromare+V
@@ -27772,7 +27772,7 @@ Id,Category
 27771,cemento+A
 27772,ombreggiare+V
 27773,pensare+V
-27774,riesplode+V
+27774,riesplodere+V
 27775,desistere+V
 27776,specificare+V
 27777,massimizzare+A
@@ -27944,7 +27944,7 @@ Id,Category
 27943,denegare+V
 27944,mandare+V
 27945,avvisare+V
-27946,sgrammaticat+A
+27946,sgrammaticato+A
 27947,modernizzatore+N
 27948,scioccare+A
 27949,provincializzare+V
@@ -28214,7 +28214,7 @@ Id,Category
 28213,istradare+V
 28214,vituperare+V
 28215,sopraelencare+V
-28216,imbattre+V
+28216,imbare+V
 28217,abboccare+V
 28218,smozzicare+V
 28219,falsare+V
@@ -28243,7 +28243,7 @@ Id,Category
 28242,accusatorio+A
 28243,crosciare+V
 28244,cavare+V
-28245,sciacquon+N
+28245,sciacquone+N
 28246,gridare+V
 28247,preludere+V
 28248,accettare+A
@@ -28342,7 +28342,7 @@ Id,Category
 28341,provincializzare+V
 28342,sbeccare+V
 28343,disalberare+V
-28344,scalporie+N
+28344,scalpore+N
 28345,sbagliare+V
 28346,globalizzare+V
 28347,demartiniano+A
@@ -28428,7 +28428,7 @@ Id,Category
 28427,muscolare+V
 28428,manifatturare+V
 28429,vere+V
-28430,catastrofio+N
+28430,catastrofo+N
 28431,pampas+N
 28432,sgrossare+V
 28433,illeggiadraire+V
@@ -28531,7 +28531,7 @@ Id,Category
 28530,narcotizzare+V
 28531,costituire+V
 28532,derapare+V
-28533,intravedreere+V
+28533,intravedere+V
 28534,argomentare+V
 28535,indebolire+V
 28536,discernere+V
@@ -28586,7 +28586,7 @@ Id,Category
 28585,ingrassare+V
 28586,madonna+N
 28587,braccare+V
-28588,coetaneao+N
+28588,coetaneo+N
 28589,popolana+N
 28590,danneggiare+V
 28591,indebolire+V
@@ -28620,7 +28620,7 @@ Id,Category
 28619,tarare+V
 28620,iranico+A
 28621,carburare+V
-28622,apostaare+V
+28622,apostatare+V
 28623,racconciare+V
 28624,memore+A
 28625,angolare+A
@@ -28633,7 +28633,7 @@ Id,Category
 28632,muggire+V
 28633,acconsentire+V
 28634,incattivire+V
-28635,sgraditao+A
+28635,sgradito+A
 28636,picchiare+V
 28637,larghezza+N
 28638,snocciolare+V
@@ -28672,7 +28672,7 @@ Id,Category
 28671,saldare+V
 28672,modulare+V
 28673,barricare+V
-28674,crogiuolare+N
+28674,crogiare+N
 28675,credito+N
 28676,bevicchiare+V
 28677,rincasare+V
@@ -28828,7 +28828,7 @@ Id,Category
 28827,morboso+A
 28828,microfilmare+V
 28829,peggiorare+V
-28830,coacerv+N
+28830,coacervo+N
 28831,crescere+V
 28832,ricrescere+V
 28833,riproporre+V
@@ -28875,7 +28875,7 @@ Id,Category
 28874,ghiotto+A
 28875,adibire+V
 28876,spianare+V
-28877,superlatitant+N
+28877,superlatita+N
 28878,impataccare+V
 28879,frammischiare+V
 28880,conglomerare+V
@@ -28954,7 +28954,7 @@ Id,Category
 28953,afro-asiatico+A
 28954,panare+V
 28955,sovrapporre+V
-28956,scaturre+V
+28956,scaturire+V
 28957,emerito+A
 28958,auricolare+A
 28959,inguainare+V
@@ -29005,7 +29005,7 @@ Id,Category
 29004,sfregiare+V
 29005,ammanierare+A
 29006,impepare+V
-29007,profonderare+V
+29007,profonderaare+V
 29008,deprivare+V
 29009,inoltrare+V
 29010,esplorare+V
@@ -29093,7 +29093,7 @@ Id,Category
 29092,kitch+N
 29093,selciare+V
 29094,pacificare+V
-29095,onnivorao+A
+29095,onnivoro+A
 29096,tritare+V
 29097,recensire+V
 29098,decentralizzare+V
@@ -29114,7 +29114,7 @@ Id,Category
 29113,esonerare+V
 29114,vibrare+V
 29115,incorrere+V
-29116,erett+A
+29116,eretta+A
 29117,peritare+V
 29118,appagare+V
 29119,insalivare+V
@@ -29137,7 +29137,7 @@ Id,Category
 29136,vergognare+V
 29137,massaggiare+V
 29138,attorcigliare+V
-29139,kiwio+N
+29139,kiwo+N
 29140,finalista+A
 29141,fluttuare+V
 29142,rinunciare+V
@@ -29146,7 +29146,7 @@ Id,Category
 29145,saldo+A
 29146,stravolgere+V
 29147,ferire+V
-29148,avvizzre+V
+29148,avvizzire+V
 29149,travalico+V
 29150,sprintare+V
 29151,intercedere+V
@@ -29229,7 +29229,7 @@ Id,Category
 29228,trasportare+V
 29229,reinnestare+A
 29230,classificabile+A
-29231,erudee+A
+29231,erudente+A
 29232,comunistizzare+V
 29233,provincializzare+V
 29234,lanciato+A
@@ -29261,7 +29261,7 @@ Id,Category
 29260,paginetta+N
 29261,esterificare+V
 29262,prendere+V
-29263,anglo-frances+A
+29263,anglo-francese+A
 29264,insabbiare+V
 29265,rivalre+V
 29266,picchiare+V
@@ -29306,7 +29306,7 @@ Id,Category
 29305,rilegare+V
 29306,fintare+V
 29307,climatizzare+V
-29308,nullafacentie+N
+29308,nullafacente+N
 29309,rammentare+V
 29310,stereotipizzare+V
 29311,dire+V
@@ -29365,7 +29365,7 @@ Id,Category
 29364,peggiorare+V
 29365,dequalificare+V
 29366,frustrare+V
-29367,nullatenentie+N
+29367,nullatenente+N
 29368,divertire+V
 29369,nobilitare+V
 29370,abbonacciare+V
@@ -29423,7 +29423,7 @@ Id,Category
 29422,impaniare+V
 29423,montare+V
 29424,accorare+V
-29425,eccepre+V
+29425,eccepire+V
 29426,scarnificare+V
 29427,capottare+V
 29428,grattare+V
@@ -29533,7 +29533,7 @@ Id,Category
 29532,intervallare+V
 29533,pronunziare+V
 29534,sottovalutare+V
-29535,alettre+V
+29535,aletre+V
 29536,irregolare+V
 29537,affaccendere+V
 29538,vagare+V
@@ -29566,7 +29566,7 @@ Id,Category
 29565,sbramare+V
 29566,pederasta+N
 29567,racconciare+V
-29568,putre+V
+29568,putire+V
 29569,conficcare+V
 29570,partecipare+V
 29571,ingelosire+V
@@ -29609,13 +29609,13 @@ Id,Category
 29608,comunicare+V
 29609,sbertucciare+V
 29610,satollare+V
-29611,riedure+V
+29611,rieducre+V
 29612,infiacchire+A
 29613,amareggiare+V
 29614,decorrere+V
 29615,inconscio+N
 29616,punire+V
-29617,sottoventao+A
+29617,sottovento+A
 29618,affaccendare+V
 29619,cruciale+A
 29620,tramare+V
