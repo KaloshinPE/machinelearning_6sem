@@ -14,51 +14,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mnist.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mnist.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pictures.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="236" column="4" lean-forward="true" selection-start-line="236" selection-start-column="4" selection-end-line="236" selection-end-column="67" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
               <folding>
-                <element signature="e#23#534#1" expanded="false" />
-                <element signature="e#686#764#0" expanded="false" />
-                <element signature="e#938#3283#0" expanded="false" />
-                <element signature="e#1219#1302#0" expanded="false" />
-                <element signature="e#1308#1371#0" expanded="false" />
-                <element signature="e#1507#2201#0" expanded="false" />
-                <element signature="e#1745#1815#0" expanded="false" />
-                <element signature="e#1945#2015#0" expanded="false" />
-                <element signature="e#2248#2575#0" expanded="false" />
-                <element signature="e#3085#3149#0" expanded="false" />
-                <element signature="e#3286#3364#0" expanded="false" />
-                <element signature="e#3611#5305#0" expanded="false" />
-                <element signature="e#3611#3684#0" expanded="false" />
-                <element signature="e#4245#4320#0" expanded="false" />
-                <element signature="e#5153#5225#0" expanded="false" />
-                <element signature="e#5422#6675#0" expanded="false" />
-                <element signature="e#5422#5495#0" expanded="false" />
-                <element signature="e#6334#6521#0" expanded="false" />
-                <element signature="e#6713#8639#0" expanded="false" />
-                <element signature="e#6713#6787#0" expanded="false" />
-                <element signature="e#7019#7091#0" expanded="false" />
-                <element signature="e#7464#7533#0" expanded="false" />
-                <element signature="e#8642#8720#0" expanded="false" />
-                <element signature="e#9513#9920#0" expanded="false" />
-                <element signature="e#9572#9639#0" expanded="false" />
-                <element signature="e#9719#9917#0" expanded="false" />
-                <element signature="e#9920#9998#0" expanded="false" />
-                <element signature="e#10703#10908#0" expanded="false" />
-                <element signature="e#10991#11050#0" expanded="false" />
-                <element signature="e#11056#11129#0" expanded="false" />
-                <element signature="e#11367#11441#0" expanded="false" />
-                <element signature="e#11847#11920#0" expanded="false" />
-                <element signature="e#12494#12568#0" expanded="false" />
-                <element signature="e#13029#14146#0" expanded="false" />
-                <element signature="e#13260#13365#0" expanded="false" />
-                <element signature="e#13571#13724#0" expanded="false" />
-                <element signature="e#14344#14484#0" expanded="false" />
-                <element signature="e#14677#14750#0" expanded="false" />
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,14 +40,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mnist.py" />
+        <option value="$PROJECT_DIR$/pycharm_project/pictures.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -101,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -115,15 +78,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pycharm_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.mnist">
+  <component name="RunManager" selected="Python.pictures">
     <configuration default="false" name="mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,6 +115,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="task5" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pictures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pycharm_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="task5" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pycharm_project/pictures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -275,12 +270,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.mnist" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pictures" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.mnist" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.pictures" />
+        <item index="1" class="java.lang.String" itemvalue="Python.mnist" />
       </list>
     </recent_temporary>
   </component>
@@ -298,25 +295,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -330,12 +327,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mnist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="236" column="4" lean-forward="true" selection-start-line="236" selection-start-column="4" selection-end-line="236" selection-end-column="67" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#23#534#1" expanded="false" />
             <element signature="e#686#764#0" expanded="false" />
-            <element signature="e#938#3283#0" expanded="false" />
             <element signature="e#1219#1302#0" expanded="false" />
             <element signature="e#1308#1371#0" expanded="false" />
             <element signature="e#1507#2201#0" expanded="false" />
@@ -371,6 +367,70 @@
             <element signature="e#13571#13724#0" expanded="false" />
             <element signature="e#14344#14484#0" expanded="false" />
             <element signature="e#14677#14750#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="81" selection-end-column="57" />
+          <folding>
+            <element signature="e#23#534#1" expanded="false" />
+            <element signature="e#686#764#0" expanded="false" />
+            <element signature="e#1219#1302#0" expanded="false" />
+            <element signature="e#1308#1371#0" expanded="false" />
+            <element signature="e#1507#2201#0" expanded="false" />
+            <element signature="e#1745#1815#0" expanded="false" />
+            <element signature="e#1945#2015#0" expanded="false" />
+            <element signature="e#2248#2575#0" expanded="false" />
+            <element signature="e#3085#3149#0" expanded="false" />
+            <element signature="e#3286#3364#0" expanded="false" />
+            <element signature="e#3611#5305#0" expanded="false" />
+            <element signature="e#3611#3684#0" expanded="false" />
+            <element signature="e#4245#4320#0" expanded="false" />
+            <element signature="e#5153#5225#0" expanded="false" />
+            <element signature="e#5422#6675#0" expanded="false" />
+            <element signature="e#5422#5495#0" expanded="false" />
+            <element signature="e#6334#6521#0" expanded="false" />
+            <element signature="e#6713#8639#0" expanded="false" />
+            <element signature="e#6713#6787#0" expanded="false" />
+            <element signature="e#7019#7091#0" expanded="false" />
+            <element signature="e#7464#7533#0" expanded="false" />
+            <element signature="e#8642#8720#0" expanded="false" />
+            <element signature="e#9513#9920#0" expanded="false" />
+            <element signature="e#9572#9639#0" expanded="false" />
+            <element signature="e#9719#9917#0" expanded="false" />
+            <element signature="e#9920#9998#0" expanded="false" />
+            <element signature="e#10703#10908#0" expanded="false" />
+            <element signature="e#10991#11050#0" expanded="false" />
+            <element signature="e#11056#11129#0" expanded="false" />
+            <element signature="e#11367#11441#0" expanded="false" />
+            <element signature="e#11847#11920#0" expanded="false" />
+            <element signature="e#12494#12568#0" expanded="false" />
+            <element signature="e#13029#14146#0" expanded="false" />
+            <element signature="e#13260#13365#0" expanded="false" />
+            <element signature="e#13571#13724#0" expanded="false" />
+            <element signature="e#14344#14484#0" expanded="false" />
+            <element signature="e#14677#14750#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_project/wishes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
