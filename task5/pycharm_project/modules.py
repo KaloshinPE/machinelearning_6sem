@@ -289,6 +289,7 @@ class SoftMax(Module):
         n = input.shape[1]
         for i in range(len(input)):
             gradInput.append(self.output[i] * np.dot(np.eye(n) - np.ones((n, n))*self.output[i], gradOutput[i]))
+        ################################################
         self.gradInput = np.array(gradInput)
 
     def __repr__(self):
@@ -303,11 +304,17 @@ class Dropout(Module):
         self.mask = None
 
     def updateOutput(self, input):
-        # Your code goes here. ################################################
+        ################################################
+        self.mask = np.random.random(input.shape) < self.p
+        print self.mask[:5]
+        self.output = input * self.mask
+        ################################################
         return self.output
 
     def updateGradInput(self, input, gradOutput):
-        # Your code goes here. ################################################
+        ################################################
+        self.gradInput = np.ones_like(input) * self.mask
+        ################################################
         return self.gradInput
 
     def __repr__(self):
@@ -340,11 +347,16 @@ class LeakyReLU(Module):
         self.slope = slope
 
     def updateOutput(self, input):
-        # Your code goes here. ################################################
+        ################################################
+        self.output = np.maximum(input, self.slope*input)
+        ################################################
         return self.output
 
     def updateGradInput(self, input, gradOutput):
-        # Your code goes here. ################################################
+        ################################################
+        border = input*self.slope
+        self.gradInput = np.multiply(gradOutput, input >= border) + np.multiply(self.slope*gradOutput, input < border)
+        ################################################
         return self.gradInput
 
     def __repr__(self):
@@ -425,15 +437,17 @@ class ClassNLLCriterion(Criterion):
         # Use this trick to avoid numerical errors
         eps = 1e-15
         input_clamp = np.clip(input, eps, 1 - eps)
-
-        # Your code goes here. ################################################
+        ################################################
+        self.output = - np.sum(np.log(input_clamp)*target)/ input.shape[0]
+        ################################################
         return self.output
 
     def updateGradInput(self, input, target):
         # Use this trick to avoid numerical errors
         input_clamp = np.maximum(1e-15, np.minimum(input, 1 - 1e-15))
-
-        # Your code goes here. ################################################
+        ################################################
+        self.gradInput = - (1.0/input_clamp)*target/ input.shape[0]
+        ################################################
         return self.gradInput
 
     def __repr__(self):

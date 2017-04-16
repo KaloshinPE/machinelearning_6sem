@@ -59,29 +59,27 @@ X = np.vstack([X1,X2])
 #plt.show()
 
 
-# net = Sequential()
-# net.add(Linear(2, 2))
-# net.add(SoftMax())
+net = Sequential()
+net.add(Linear(2, 2))
+net.add(SoftMax())
 
 # Test something like that then
 
 net = Sequential()
 net.add(Linear(2, 4))
-net.add(ReLU())
+net.add(LeakyReLU())
 net.add(Linear(4, 2))
 net.add(SoftMax())
 
-#criterion = ClassNLLCriterion()
-criterion = MSECriterion()
-
+criterion = ClassNLLCriterion()
 print net
 
 # Iptimizer params
-optimizer_config = {'learning_rate' : 1e-4, 'momentum': 0.9}
+optimizer_config = {'learning_rate' : 1e-3, 'momentum': 0.9}
 optimizer_state = {}
 
 # Looping params
-n_epoch = 200
+n_epoch = 20
 batch_size = 128
 
 loss_history = []
