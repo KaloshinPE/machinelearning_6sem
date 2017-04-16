@@ -182,8 +182,8 @@ class Sequential(Module):
         ################################################
         self.gradInput = gradOutput
         inputs = [input]
-        for module in self.modules:
-            inputs.append(module.forward(self.output))
+        for module in self.modules[:-1]:
+            inputs.append(module.forward(inputs[-1]))
         for module in self.modules[::-1]:
             self.gradInput = module.backward(inputs.pop(), self.gradInput)
         ################################################
@@ -228,7 +228,8 @@ class Linear(Module):
 
         # This is a nice initialization
         stdv = 1. / np.sqrt(n_in)
-        self.W = np.random.uniform(-stdv, stdv, size=(n_out, n_in))
+        # self.W = np.random.uniform(-stdv, stdv, size=(n_out, n_in))
+        self.W = np.random.uniform(-stdv, stdv, size=(n_in, n_out))
         self.b = np.random.uniform(-stdv, stdv, size=n_out)
 
         self.gradW = np.zeros_like(self.W)
@@ -248,12 +249,8 @@ class Linear(Module):
 
     def accGradParameters(self, input, gradOutput):
         ################################################
-        self.gradW = np.dot(gradOutput.transpose(), input)
+        self.gradW = np.dot(input.transpose(), gradOutput)
         self.gradb = np.sum(gradOutput, axis=0)
-        print '\n grad:'
-        print self.gradW
-        print self.gradb
-        print '\n'
         ################################################
         pass
 
@@ -267,12 +264,9 @@ class Linear(Module):
     def getGradParameters(self):
         return [self.gradW, self.gradb]
 
-    def print_W(self):
-        print self.W
-
     def __repr__(self):
         s = self.W.shape
-        q = 'Linear %d -> %d' % (s[1], s[0])
+        q = 'Linear %d -> %d' % (s[0], s[1])
         return q
 
 
@@ -283,15 +277,19 @@ class SoftMax(Module):
     def updateOutput(self, input):
         # start with normalization for numerical stability
         self.output = np.subtract(input, input.max(axis=1, keepdims=True))
-        self.output = np.exp(self.output)
-        self.output /= self.output.sum(axis=1)
         ################################################
+        self.output = np.exp(self.output)
+        self.output /= self.output.sum(axis=1, keepdims=True)
         ################################################
         return self.output
 
     def updateGradInput(self, input, gradOutput):
-        # Your code goes here. ################################################
-        return self.gradInput
+        ################################################
+        gradInput = []
+        n = input.shape[1]
+        for i in range(len(input)):
+            gradInput.append(self.output[i] * np.dot(np.eye(n) - np.ones((n, n))*self.output[i], gradOutput[i]))
+        self.gradInput = np.array(gradInput)
 
     def __repr__(self):
         return "SoftMax"

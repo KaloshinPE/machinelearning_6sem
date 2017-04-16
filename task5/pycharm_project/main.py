@@ -59,68 +59,63 @@ X = np.vstack([X1,X2])
 #plt.show()
 
 
+# net = Sequential()
+# net.add(Linear(2, 2))
+# net.add(SoftMax())
+
+# Test something like that then
+
 net = Sequential()
-net.add(Linear(2, 2))
+net.add(Linear(2, 4))
+net.add(ReLU())
+net.add(Linear(4, 2))
 net.add(SoftMax())
-print net.forward(X)[:5]
 
 #criterion = ClassNLLCriterion()
 criterion = MSECriterion()
 
-print(net)
-
-# Test something like that then
-
-# net = Sequential()
-# net.add(Linear(2, 4))
-# net.add(ReLU())
-# net.add(Linear(4, 2))
-# net.add(SoftMax())
-
+print net
 
 # Iptimizer params
-optimizer_config = {'learning_rate' : 1e-1, 'momentum': 0.9}
+optimizer_config = {'learning_rate' : 1e-4, 'momentum': 0.9}
 optimizer_state = {}
 
 # Looping params
-n_epoch = 20
+n_epoch = 200
 batch_size = 128
 
 loss_history = []
-#
-# for i in range(n_epoch):
-#     for x_batch, y_batch in get_batches((X, Y), batch_size):
-#         net.zeroGradParameters()
-#
-#         # Forward
-#         predictions = net.forward(x_batch)
-#         print net.modules[0].print_W()
-#         print x_batch[:5]
-#         print predictions[:5]
-#         loss = criterion.forward(predictions, y_batch)
-#
-#         # Backward
-#         dp = criterion.backward(predictions, y_batch)
-#         net.backward(x_batch, dp)
-#
-#         # Update weights
-#         sgd_momentum(net.getParameters(),
-#                      net.getGradParameters(),
-#                      optimizer_config,
-#                      optimizer_state)
-#
-#         loss_history.append(loss)
-#
-#     print('Current loss: %f' % loss)
-#     # Visualize
-#     # display.clear_output(wait=True)
-#     plt.figure(figsize=(8, 6))
-#
-#     plt.title("Training loss")
-#     plt.xlabel("#iteration")
-#     plt.ylabel("loss")
-#     plt.plot(loss_history, 'b')
-#     plt.show()
-#
+
+for i in range(n_epoch):
+    for x_batch, y_batch in get_batches((X, Y), batch_size):
+        net.zeroGradParameters()
+
+        # Forward
+        predictions = net.forward(x_batch)
+        loss = criterion.forward(predictions, y_batch)
+
+        # Backward
+        dp = criterion.backward(predictions, y_batch)
+        net.backward(x_batch, dp)
+
+        # Update weights
+        sgd_momentum(net.getParameters(),
+                     net.getGradParameters(),
+                     optimizer_config,
+                     optimizer_state)
+
+        loss_history.append(loss)
+
+print('Current loss: %f' % loss)
+# Visualize
+# display.clear_output(wait=True)
+plt.figure(figsize=(8, 6))
+
+plt.title("Training loss")
+plt.xlabel("#iteration")
+plt.ylabel("loss")
+plt.plot(loss_history, 'b')
+plt.show()
+
 
 
