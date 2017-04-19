@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -65,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -94,12 +93,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../defectpredictions/resrepo/SDA" />
   </component>
   <component name="RunManager" selected="Python.pictures">
     <configuration default="false" name="mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -296,25 +296,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -325,103 +325,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mnist.py">
+    <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23#534#1" expanded="false" />
-            <element signature="e#686#764#0" expanded="false" />
-            <element signature="e#1219#1302#0" expanded="false" />
-            <element signature="e#1308#1371#0" expanded="false" />
-            <element signature="e#1507#2201#0" expanded="false" />
-            <element signature="e#1745#1815#0" expanded="false" />
-            <element signature="e#1945#2015#0" expanded="false" />
-            <element signature="e#2248#2575#0" expanded="false" />
-            <element signature="e#3085#3149#0" expanded="false" />
-            <element signature="e#3286#3364#0" expanded="false" />
-            <element signature="e#3611#5305#0" expanded="false" />
-            <element signature="e#3611#3684#0" expanded="false" />
-            <element signature="e#4245#4320#0" expanded="false" />
-            <element signature="e#5153#5225#0" expanded="false" />
-            <element signature="e#5422#6675#0" expanded="false" />
-            <element signature="e#5422#5495#0" expanded="false" />
-            <element signature="e#6334#6521#0" expanded="false" />
-            <element signature="e#6713#8639#0" expanded="false" />
-            <element signature="e#6713#6787#0" expanded="false" />
-            <element signature="e#7019#7091#0" expanded="false" />
-            <element signature="e#7464#7533#0" expanded="false" />
-            <element signature="e#8642#8720#0" expanded="false" />
-            <element signature="e#9513#9920#0" expanded="false" />
-            <element signature="e#9572#9639#0" expanded="false" />
-            <element signature="e#9719#9917#0" expanded="false" />
-            <element signature="e#9920#9998#0" expanded="false" />
-            <element signature="e#10703#10908#0" expanded="false" />
-            <element signature="e#10991#11050#0" expanded="false" />
-            <element signature="e#11056#11129#0" expanded="false" />
-            <element signature="e#11367#11441#0" expanded="false" />
-            <element signature="e#11847#11920#0" expanded="false" />
-            <element signature="e#12494#12568#0" expanded="false" />
-            <element signature="e#13029#14146#0" expanded="false" />
-            <element signature="e#13260#13365#0" expanded="false" />
-            <element signature="e#13571#13724#0" expanded="false" />
-            <element signature="e#14344#14484#0" expanded="false" />
-            <element signature="e#14677#14750#0" expanded="false" />
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mnist.py">
+    <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="81" selection-end-column="57" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#23#534#1" expanded="false" />
-            <element signature="e#686#764#0" expanded="false" />
-            <element signature="e#1219#1302#0" expanded="false" />
-            <element signature="e#1308#1371#0" expanded="false" />
-            <element signature="e#1507#2201#0" expanded="false" />
-            <element signature="e#1745#1815#0" expanded="false" />
-            <element signature="e#1945#2015#0" expanded="false" />
-            <element signature="e#2248#2575#0" expanded="false" />
-            <element signature="e#3085#3149#0" expanded="false" />
-            <element signature="e#3286#3364#0" expanded="false" />
-            <element signature="e#3611#5305#0" expanded="false" />
-            <element signature="e#3611#3684#0" expanded="false" />
-            <element signature="e#4245#4320#0" expanded="false" />
-            <element signature="e#5153#5225#0" expanded="false" />
-            <element signature="e#5422#6675#0" expanded="false" />
-            <element signature="e#5422#5495#0" expanded="false" />
-            <element signature="e#6334#6521#0" expanded="false" />
-            <element signature="e#6713#8639#0" expanded="false" />
-            <element signature="e#6713#6787#0" expanded="false" />
-            <element signature="e#7019#7091#0" expanded="false" />
-            <element signature="e#7464#7533#0" expanded="false" />
-            <element signature="e#8642#8720#0" expanded="false" />
-            <element signature="e#9513#9920#0" expanded="false" />
-            <element signature="e#9572#9639#0" expanded="false" />
-            <element signature="e#9719#9917#0" expanded="false" />
-            <element signature="e#9920#9998#0" expanded="false" />
-            <element signature="e#10703#10908#0" expanded="false" />
-            <element signature="e#10991#11050#0" expanded="false" />
-            <element signature="e#11056#11129#0" expanded="false" />
-            <element signature="e#11367#11441#0" expanded="false" />
-            <element signature="e#11847#11920#0" expanded="false" />
-            <element signature="e#12494#12568#0" expanded="false" />
-            <element signature="e#13029#14146#0" expanded="false" />
-            <element signature="e#13260#13365#0" expanded="false" />
-            <element signature="e#13571#13724#0" expanded="false" />
-            <element signature="e#14344#14484#0" expanded="false" />
-            <element signature="e#14677#14750#0" expanded="false" />
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pycharm_project/wishes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,6 +349,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="81" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_project/wishes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_project/pictures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
